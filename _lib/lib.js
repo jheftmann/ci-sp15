@@ -12,6 +12,7 @@
 // @codekit-prepend "js/fitvids.js"
 // @codekit-prepend "js/waitForImages.js"
 // @codekit-prepend "js/v0/config-waitForImages.js"
+// @codekit-prepend "js/one-page-nav.js"
 
 /* v0 */
 // @codekit-prepend "js/v0/mobile-nav.js"

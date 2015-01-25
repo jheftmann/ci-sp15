@@ -1,0 +1,181 @@
+.sidebar {
+	.make-sm-column(2);
+
+	header {
+		padding-top: 70px;
+		border-top: 5px solid @black;
+	}
+
+	nav {
+		position: fixed;
+		margin-top: 100px;
+
+
+		.subnav {
+			margin-top: 20px;
+			.gray(50);
+		}
+
+		.indicator {
+			height: 5px;
+			width: 5px;
+			margin-bottom: 3px;
+			margin-left: -10px;
+			margin-right: 5px;
+			display: inline-block;
+			background-color: @white;
+			.round;
+		}
+
+		li {
+
+			&:hover {
+
+				.indicator {
+					background-color: #999;
+				}
+			}
+
+			&.current {
+
+				&:hover a {
+					color: @black;
+				}
+
+				.indicator {
+					background-color: @black;
+				}
+			}
+		}
+	}
+
+	h5 {
+		margin-bottom: 15px;
+		text-indent: 10px;
+		font-size: 13px;
+		.txt-strong;
+	}
+
+	.footer {
+		position: fixed;
+		bottom: 10px;
+
+		h6 {
+			.gray(50);
+		}
+	}
+}
+
+.content {
+	.make-sm-column(7);
+	.make-sm-column-offset(1);
+
+	.site-header {
+		margin-top: 60px;
+
+		h1 {
+			margin-top: 0;
+			font-size: 80px;
+		}
+	}
+
+	section {
+		padding: 60px 0;
+		border-bottom: 1px solid @black;
+
+		.section-content {
+			margin-bottom: 20px;
+
+			h4 {
+				margin-bottom: 10px;
+			}
+
+			.details-link {
+				.txt-strong;
+				.txt-xxs;
+				margin-top: 15px;
+				border-bottom: 1px solid @black;
+				display: inline-block;
+
+				&:hover {
+					border-bottom-color: transparent;
+
+					a {
+						color: @black;
+					}
+				}
+			}
+
+			.links-list {
+
+
+				h6 {
+					.txt-strong;
+					.txt-upper;
+					margin-bottom: 5px;
+				}
+
+				li {
+					list-style-type: circle;
+
+					a {
+
+						&:hover {
+
+							&:after {
+								content: '\2192';
+								margin-left: 10px;
+							}
+						}
+					}
+				}
+			}
+
+		}
+	}
+
+	.subsection {
+		.inner;
+		padding: 20px 0;
+
+		.section-content {
+			border-bottom: 1px solid @black;
+			padding-bottom: 30px;
+			margin-bottom: 0px;
+		}
+	}
+
+	.section-header {
+		.make-sm-column(3);
+		margin-bottom: 50px;
+
+		h2 {
+			.txt-md;
+		}
+
+		h3 {
+			.txt-sm;
+		}
+	}
+
+	.section-content {
+		.make-sm-column(8);
+		.make-sm-column-offset(1);
+		min-height: 100px;
+	}
+}
+
+.grading-scale {
+
+	h3 {
+		min-width: 50px;
+	}
+
+	ul {
+
+	}
+}
+
+.gray {
+	.gray(50);
+}

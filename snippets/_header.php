@@ -3,7 +3,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>v0</title>
+	<title>Core Interaction: Spring 2015</title>
 	<!-- favicon -->
 	<link rel="icon" sizes="16x16 32x32" href="/path/to/favicon.ico?v=2">
 	<!--[if IE]><link rel="shortcut icon" href="/path/to/favicon.ico?v=2"><![endif]-->
@@ -27,7 +27,6 @@
 
 	<!-- css -->
 	<link href="styles/site.css" rel="stylesheet">
-	<link rel="stylesheet/less" type="text/css" href="../styles/less/_site.less" />
 
 	</head>
 	<body>
