@@ -101,21 +101,6 @@
 				margin-bottom: 10px;
 			}
 
-			.details-link {
-				.txt-strong;
-				.txt-xxs;
-				margin-top: 15px;
-				display: inline-block;
-
-				&:hover {
-					border-bottom-color: transparent;
-
-					a {
-						color: @black;
-					}
-				}
-			}
-
 			.links-list {
 
 
@@ -141,6 +126,15 @@
 				}
 			}
 
+
+
+		}
+
+		.details-link {
+			.txt-xxs;
+			margin-top: 15px;
+			display: inline-block;
+			display:none;
 		}
 	}
 
@@ -158,6 +152,12 @@
 			border-bottom: 0;
 			padding-bottom: 0;
 			margin-bottom: 0;
+		}
+
+		&:hover {
+			.details-link {
+				display:block;
+			}
 		}
 	}
 

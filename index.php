@@ -40,14 +40,13 @@
 								<h6>January 26</h6>
 							</div>
 							<div class="section-content">
-								<h4>Hello, World</h4>
+								<h4><a href="week-01">Hello, World</a></h4>
 								<p>Designed around a series of small workshops that teach beginning and intermediate interaction design through a hands-on engagement with HTML and CSS.
 								</p>
-								<p class="details-link"><a href="week-01.php">Assignment details</a></p>
 								<div class="links-list">
 									<h6 class="mt-md">Reading list</h6>
 									<ul>
-										<li><a href="">The $300 Million Button</a></li>
+										<li><a href="http://www.uie.com/articles/three_hund_million_button" target="_blank">The $300 Million Button</a></li>
 									</ul>
 								</div>
 
@@ -60,7 +59,7 @@
 								<h6>February 2</h6>
 							</div>
 							<div class="section-content">
-								<h4>Title</h4>
+								<h4><a href="week-02">Title</a></h4>
 							</div>
 						</div>
 
@@ -70,7 +69,7 @@
 								<h6>February 9</h6>
 							</div>
 							<div class="section-content">
-								<h4>Title</h4>
+								<h4><a href="week-02">Title</a></h4>
 							</div>
 						</div>
 
@@ -90,7 +89,7 @@
 								<h6>February 23</h6>
 							</div>
 							<div class="section-content">
-								<h4>Title</h4>
+								<h4><a href="week-02">Title</a></h4>
 							</div>
 						</div>
 
@@ -100,7 +99,7 @@
 								<h6>March</h6>
 							</div>
 							<div class="section-content">
-								<h4>Title</h4>
+								<h4><a href="week-02">Title</a></h4>
 							</div>
 						</div>
 
@@ -110,7 +109,7 @@
 								<h6>March 9</h6>
 							</div>
 							<div class="section-content">
-								<h4>Title</h4>
+								<h4><a href="week-02">Title</a></h4>
 							</div>
 						</div>
 
@@ -120,7 +119,7 @@
 								<h6>March 16</h6>
 							</div>
 							<div class="section-content">
-								<h4>Midterm project due</h4>
+								<h4><a href="week-02">Midterm project due</a></h4>
 							</div>
 						</div>
 
@@ -130,7 +129,7 @@
 								<h6>March 23</h6>
 							</div>
 							<div class="section-content">
-								<h4>Spring break</h4>
+								<h4>Spring break &#8212; no class</h4>
 							</div>
 						</div>
 
@@ -140,7 +139,7 @@
 								<h6>March 30</h6>
 							</div>
 							<div class="section-content">
-								<h4>Title</h4>
+								<h4><a href="week-02">Title</a></h4>
 							</div>
 						</div>
 
@@ -150,7 +149,7 @@
 								<h6>April 6</h6>
 							</div>
 							<div class="section-content">
-								<h4>Title</h4>
+								<h4><a href="week-02">Title</a></h4>
 							</div>
 						</div>
 
@@ -160,7 +159,7 @@
 								<h6>April 13</h6>
 							</div>
 							<div class="section-content">
-								<h4>Title</h4>
+								<h4><a href="week-02">Title</a></h4>
 							</div>
 						</div>
 
@@ -170,7 +169,7 @@
 								<h6>April 20</h6>
 							</div>
 							<div class="section-content">
-								<h4>Title</h4>
+								<h4><a href="week-02">Title</a></h4>
 							</div>
 						</div>
 
@@ -180,7 +179,7 @@
 								<h6>April 27</h6>
 							</div>
 							<div class="section-content">
-								<h4>Title</h4>
+								<h4><a href="week-02">Title</a></h4>
 							</div>
 						</div>
 
@@ -190,7 +189,7 @@
 								<h6>May 4</h6>
 							</div>
 							<div class="section-content">
-								<h4>Title</h4>
+								<h4><a href="week-02">Title</a></h4>
 							</div>
 						</div>
 
@@ -200,7 +199,7 @@
 								<h6>May 11</h6>
 							</div>
 							<div class="section-content">
-								<h4>Title</h4>
+								<h4><a href="week-02">Title</a></h4>
 							</div>
 						</div>
 
@@ -210,7 +209,7 @@
 								<h6>May 18</h6>
 							</div>
 							<div class="section-content">
-								<h4>Final project due</h4>
+								<h4><a href="week-15">Final project due</a></h4>
 							</div>
 						</div>
 

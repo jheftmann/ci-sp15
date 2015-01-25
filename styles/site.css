@@ -2872,23 +2872,6 @@ strong,
 .content section .section-content h4 {
   margin-bottom: 10px;
 }
-.content section .section-content .details-link {
-  font-weight: normal;
-  font-weight: 700;
-  font-size: 11px !important;
-  margin-top: 15px;
-  display: inline-block;
-}
-.content section .section-content .details-link em,
-.content section .section-content .details-link .txt-em {
-  font-style: normal;
-}
-.content section .section-content .details-link:hover {
-  border-bottom-color: transparent;
-}
-.content section .section-content .details-link:hover a {
-  color: #000000;
-}
 .content section .section-content .links-list h6 {
   font-weight: normal;
   font-weight: 700;
@@ -2905,6 +2888,12 @@ strong,
 .content section .section-content .links-list li a:hover:after {
   content: '\2192';
   margin-left: 10px;
+}
+.content section .details-link {
+  font-size: 11px !important;
+  margin-top: 15px;
+  display: inline-block;
+  display: none;
 }
 .content .subsection {
   margin-left: -15px;
@@ -2936,6 +2925,9 @@ strong,
   border-bottom: 0;
   padding-bottom: 0;
   margin-bottom: 0;
+}
+.content .subsection:hover .details-link {
+  display: block;
 }
 .content .section-header {
   position: relative;
