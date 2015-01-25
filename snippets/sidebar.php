@@ -1,6 +1,6 @@
 <div class="sidebar">
 	<header>
-		<h5><a href="http://jacobheftmann.com/CLI-SP15/">
+		<h5><a href="http://jacobheftmann.com/ci-sp15/">
 			Core Interaction
 			<br>
 			Spring 2015

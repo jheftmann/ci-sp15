@@ -8,7 +8,7 @@
 
 			<div class="content">
 				<header class="site-header">
-					<h1>Core Lab Interaction</h1>
+					<h1>Core Interaction</h1>
 				</header>
 
 				<section id="description">

@@ -1595,6 +1595,9 @@ td.visible-print {
 @viewport {
   width: device-width;
 }
+* {
+  margin: 0;
+}
 input,
 select,
 button {
@@ -2865,7 +2868,7 @@ strong,
 }
 @media (min-width: 768px) {
   .content .site-header h1 {
-    font-size: 80px;
+    font-size: 100px;
   }
 }
 .content section {

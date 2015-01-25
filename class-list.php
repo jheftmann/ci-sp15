@@ -20,7 +20,7 @@
 								<h6 class="txt-strong">01</h6>
 							</div>
 							<div class="section-content">
-								<h4><a href="students/jacob/">Jacob</a></h4>
+								<h4><a href="class-list/jacob/">Jacob</a></h4>
 							</div>
 						</div>
 						<div class="subsection">
