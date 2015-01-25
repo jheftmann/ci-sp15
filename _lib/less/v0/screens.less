@@ -1,0 +1,93 @@
+@lap: ~'min-width: @{screen-sm}';
+@lap-only: ~'min-width: @{screen-sm}) and (max-width: @{screen-md}';
+@desk:  ~'min-width: @{screen-md}';
+@desk-only: ~'min-width: @{screen-md}) and (max-width: @{screen-lg}';
+@cinema:  ~'min-width: @{screen-lg}';
+
+
+
+/*
+// example usage
+@media(@lap) {}
+@media (@lap-only) {}
+@media(@desk) {}
+@media (@desk-only) {}
+@media(@cinema) {}
+*/
+
+
+
+/* test */
+/*
+
+// bigger than mobile
+@media (@lap) {
+	.test {background-color:black !important;}
+}
+
+// tablet only (bigger than mobile and smaller than desktop)
+@media (@lap-only) {
+	.test {background-color:white !important;}
+}
+
+// bigger than tablet
+@media (@desk) {
+	.test {background-color:blue !important;}
+}
+
+// desktop only (bigger than tablet and smaller than cinema)
+@media (@desk-only) {
+	.test {background-color:red !important;}
+}
+
+// cinema and up
+@media (@cinema) {
+	.test {background-color:green !important;}
+}
+
+*/
+
+
+
+
+// deprecated
+
+
+/* REFERENCE */
+// media queries
+/*
+
+// Extra small devices (phones, less than 768px)
+// No media query since this is the default in Bootstrap
+
+// Small devices (tablets, 768px and up)
+@media (min-width: @screen-sm-min) {
+
+}
+
+// Medium devices (desktops, 992px and up)
+@media (min-width: @screen-md-min) {
+
+}
+
+// Large devices (large desktops, 1200px and up)
+@media (min-width: @screen-lg-min) {
+
+}
+
+@media (max-width: @screen-xs-max) {
+
+}
+
+@media (min-width: @screen-sm-min) and (max-width: @screen-sm-max) {
+
+}
+
+@media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
+
+}
+
+@media (min-width: @screen-lg-min) {
+
+}
+*/

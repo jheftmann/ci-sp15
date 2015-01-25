@@ -1,0 +1,41 @@
+@x-spacing-xs: 10px;
+@x-spacing-sm: 20px;
+@x-spacing-md: 30px;
+@x-spacing-lg: 60px;
+@x-spacing-xl: 100px;
+
+@y-spacing-xs: 10px;
+@y-spacing-sm: 20px;
+@y-spacing-md: 30px;
+@y-spacing-lg: 60px;
+@y-spacing-xl: 100px;
+
+.display-none {display: none;}
+.text-left {text-align: left;}
+.text-right {text-align: right;}
+.text-center {text-align: center;}
+.text-justify{text-align: justify;.text-hyphenate;}
+.text-large {font-size: 120%;}
+.text-small {font-size: 80%;}
+.text-uppercase {text-transform: uppercase;}
+.text-lowercase {text-transform: lowercase;}
+.text-hyphenate {-webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto;}
+.text-hyphenate-0 {-webkit-hyphens: none; -moz-hyphens: none; hyphens: none;-ms-hyphens: none;}
+.txt-large {font-size: 120%;}
+.txt-small {font-size: 80%;}
+.text-center-child,
+.text-center img {
+margin: 0 auto;
+}
+
+.img-background {
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center;
+}
+.add-transition(@transition: all, @speed: .1s, @animation: ease-in-out) {
+transition: @transition @speed @animation;
+-moz-transition: @transition @speed @animation;
+-webkit-transition: @transition @speed @animation;
+-o-transition: @transition @speed @animation;
+}
