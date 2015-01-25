@@ -25,8 +25,9 @@
 										<li>Create an FTP account</li>
 										<li>Make yourself a page to link all your projects from</li>
 										<li>On your page, make a link to this week’s project</li>
-										<li>Recreate a simple version of a web page of your choosing using Markdown. Maintain the hierarchy, links, text, and images of the original article.</li>
+										<li>Recreate a simple version of a web page of your choosing using Markdown. Maintain the hierarchy, links, text, and images of the original article</li>
 										<li>Export your Markdown to HTML. Paste it into your project page.</li>
+										<li>Take a screenshot of the original page and include it in your project folder</li>
 										<li>Put your project on the server</li>
 										<li>Commit and push all your code to Github</li>
 									</ol>

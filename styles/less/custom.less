@@ -129,19 +129,26 @@
 					list-style-type: circle;
 
 					a {
+						border-bottom: 1px solid @black;
 
 						&:hover {
-
-							&:after {
-								content: '\2192';
-								margin-left: 10px;
-							}
+							color: inherit;
+							border-bottom: 0;
 						}
 					}
 				}
 			}
 
+			&:hover {
 
+				h4 {
+					&:after {
+						content: '\2192';
+						font-size: 15px;
+						margin-left: 10px;
+					}
+				}
+			}
 
 		}
 

@@ -50,6 +50,8 @@
 								<div class="links-list">
 									<h6 class="mt-md">Reading list</h6>
 									<ul>
+										<li><a href="http://en.wikipedia.org/wiki/Johannes_Gutenberg" target="_blank">Gutenberg</a> and his <a href="http://en.wikipedia.org/wiki/Printing_press#Gutenberg.27s_press" target="_blank">printing press</a></li>
+										<li><a href="http://www.newyorker.com/magazine/2015/01/26/cobweb" target="_blank">The Cobweb</a></li>
 										<li><a href="http://www.uie.com/articles/three_hund_million_button" target="_blank">The $300 Million Button</a></li>
 									</ul>
 								</div>

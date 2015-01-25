@@ -2896,8 +2896,16 @@ strong,
 .content section .section-content .links-list li {
   list-style-type: circle;
 }
-.content section .section-content .links-list li a:hover:after {
+.content section .section-content .links-list li a {
+  border-bottom: 1px solid #000000;
+}
+.content section .section-content .links-list li a:hover {
+  color: inherit;
+  border-bottom: 0;
+}
+.content section .section-content:hover h4:after {
   content: '\2192';
+  font-size: 15px;
   margin-left: 10px;
 }
 .content section .details-link {
