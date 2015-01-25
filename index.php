@@ -108,17 +108,17 @@
 								<h6>February 9</h6>
 							</div>
 							<div class="section-content">
-								<h4><a href="week-02">Title</a></h4>
+								<h4><a href="week-02">TBD</a></h4>
 							</div>
 						</div>
 
 						<div class="subsection">
 							<div class="section-header">
-								<h6 class="txt-strong">—</h6>
+								<h6 class="txt-strong">&#8212;</h6>
 								<h6>February 16</h6>
 							</div>
 							<div class="section-content">
-								<h4>No class</h4>
+								<h4>President's Day&#8212;No class</h4>
 							</div>
 						</div>
 
@@ -128,7 +128,7 @@
 								<h6>February 23</h6>
 							</div>
 							<div class="section-content">
-								<h4><a href="week-02">Title</a></h4>
+								<h4><a href="week-02">TBD</a></h4>
 							</div>
 						</div>
 
@@ -138,7 +138,7 @@
 								<h6>March</h6>
 							</div>
 							<div class="section-content">
-								<h4><a href="week-02">Title</a></h4>
+								<h4><a href="week-02">TBD</a></h4>
 							</div>
 						</div>
 
@@ -148,7 +148,7 @@
 								<h6>March 9</h6>
 							</div>
 							<div class="section-content">
-								<h4><a href="week-02">Title</a></h4>
+								<h4><a href="week-02">TBD</a></h4>
 							</div>
 						</div>
 
@@ -168,7 +168,7 @@
 								<h6>March 23</h6>
 							</div>
 							<div class="section-content">
-								<h4>Spring break &#8212; no class</h4>
+								<h4>Spring break&#8212;no class</h4>
 							</div>
 						</div>
 
@@ -178,7 +178,7 @@
 								<h6>March 30</h6>
 							</div>
 							<div class="section-content">
-								<h4><a href="week-02">Title</a></h4>
+								<h4><a href="week-02">TBD</a></h4>
 							</div>
 						</div>
 
@@ -188,7 +188,7 @@
 								<h6>April 6</h6>
 							</div>
 							<div class="section-content">
-								<h4><a href="week-02">Title</a></h4>
+								<h4><a href="week-02">TBD</a></h4>
 							</div>
 						</div>
 
@@ -198,7 +198,7 @@
 								<h6>April 13</h6>
 							</div>
 							<div class="section-content">
-								<h4><a href="week-02">Title</a></h4>
+								<h4><a href="week-02">TBD</a></h4>
 							</div>
 						</div>
 
@@ -208,7 +208,7 @@
 								<h6>April 20</h6>
 							</div>
 							<div class="section-content">
-								<h4><a href="week-02">Title</a></h4>
+								<h4><a href="week-02">TBD</a></h4>
 							</div>
 						</div>
 
@@ -218,7 +218,7 @@
 								<h6>April 27</h6>
 							</div>
 							<div class="section-content">
-								<h4><a href="week-02">Title</a></h4>
+								<h4><a href="week-02">TBD</a></h4>
 							</div>
 						</div>
 
@@ -228,7 +228,7 @@
 								<h6>May 4</h6>
 							</div>
 							<div class="section-content">
-								<h4><a href="week-02">Title</a></h4>
+								<h4><a href="week-02">TBD</a></h4>
 							</div>
 						</div>
 
@@ -238,7 +238,7 @@
 								<h6>May 11</h6>
 							</div>
 							<div class="section-content">
-								<h4><a href="week-02">Title</a></h4>
+								<h4><a href="week-02">TBD</a></h4>
 							</div>
 						</div>
 
@@ -296,8 +296,8 @@
 							</div>
 							<div class="section-content">
 								<ul class="links-list">
-									<li>Universal Principles of Design (Oka, Weatherhill)</li>
-									<li>How to Wrap Five Eggs (Lidwell, Holden, Butler, Rockport)</a></li>
+									<li>Universal Principles of Design (Oka; Weatherhill)</li>
+									<li>How to Wrap Five Eggs (Lidwell, Holden, Butler; Rockport)</a></li>
 								</ul>
 							</div>
 						</div>
@@ -307,10 +307,7 @@
 								<h3>Useful links</h3>
 							</div>
 							<div class="section-content">
-								<ul class="links-list">
-									<li><a href="">Some Article</a></li>
-									<li><a href="">Some Article</a></li>
-								</ul>
+								<p>This will grow as the semester continues. Each week may also have specific resources associated with it.</p>
 							</div>
 						</div>
 
