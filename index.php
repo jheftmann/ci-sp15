@@ -254,6 +254,18 @@
 							</div>
 						</div>
 
+						<div class="subsection">
+							<div class="section-header">
+								<h3>FTP access</h3>
+							</div>
+							<div class="section-content">
+								<p>Server: <span class="txt-strong">ftp.jacobheftmann.com</span></p>
+								<p>Username: <span class="txt-strong">lastname-firstname@jacobheftmann.com</span></p>
+								<p>Password: <span class="txt-strong">*****</span></p>
+								<p>Initial path: <span class="txt-strong gray">N/A</span></p>
+							</div>
+						</div>
+
 					</div>
 				</section>
 
@@ -439,12 +451,8 @@
 							</div>
 						</div>
 
-
-
-
 					</div>
 				</section>
-
 
 			</div>
 
