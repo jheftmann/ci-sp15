@@ -19,7 +19,7 @@
 								<h2>Lab</h2>
 							</div>
 							<div class="section-content">
-								<p>This week is all about getting comfortable with the workflow and some of our tools.
+								<p>This week’s Lab is an introduction to the course and to building interactive experiences, with an emphasis on coding websites. We’ll be getting set up for the semester by building a simple page to host our projects. We’re also going to have our first project, which is an introduction to HTML and page structure.</p>
 									<ol>
 										<li>Install the required software and make accounts for any services you don't have.</li>
 										<li>Create an FTP account</li>
@@ -32,6 +32,21 @@
 										<li>Commit and push all your code to Github</li>
 									</ol>
 								</p>
+								<div class="links-list">
+									<h6 class="mt-md">Deliverables (Assignment)</h6>
+									<ul>
+										<li>Your profile page</li>
+										<li>An unstyled HTML article</li>
+									</ul>
+								</div>
+								<div class="links-list">
+									<h6 class="mt-md">Reading list</h6>
+									<ul>
+										<li><a href="http://en.wikipedia.org/wiki/Johannes_Gutenberg" target="_blank">Gutenberg</a> and his <a href="http://en.wikipedia.org/wiki/Printing_press#Gutenberg.27s_press" target="_blank">printing press</a></li>
+										<li><a href="http://www.newyorker.com/magazine/2015/01/26/cobweb" target="_blank">The Cobweb</a></li>
+										<li><a href="http://www.uie.com/articles/three_hund_million_button" target="_blank">The $300 Million Button</a></li>
+									</ul>
+								</div>
 								<div class="links-list">
 									<h6 class="mt-md">Tools & resources</h6>
 									<ul>

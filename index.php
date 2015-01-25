@@ -18,9 +18,45 @@
 								<h2>Course description</h2>
 							</div>
 							<div class="section-content">
+								<h5>Lab</h5>
 								<p>This course serves as a complement to Core Studio Interaction. The assignments are built to work in tandem with the projects students are developing in the studio class. The lab is designed around a series of small workshops that teach beginning and intermediate interaction design through a hands-on engagement with HTML and CSS.</p>
+								<h5>Studio</h5>
+								<p>This course exposes students to thorough and elaborate interactive concepts and techniques for applications. It is an extensive investigation in the interface, the mechanism, the controls and the aims of interactive works. Students will learn how to design and develop complex interactive projects and understand how to undertake a comprehensive research and direct their thinking process from brainstorming to final outcome. They will be given the tools to conceive, plan and develop an interactive system and they will become aware of the importance of their role in the development of interactive media.</p>
 							</div>
 						</div>
+
+						<div class="subsection">
+							<div class="section-header">
+								<h3>Learning outcomes</h3>
+							</div>
+							<div class="section-content">
+								<p>At the completion of this course, you will be able to:<p>
+								<h5 class="txt-strong no-indent">Think like a designer</h5>
+								<ul class="bullets">
+									<li>Understand the iterative process in interaction design.</li>
+									<li>Develop thoughtful experiences that champion content & concept</li>
+									<li>Create screen-based designs that are sympathetic to usability and user goals</li>
+									<li>Combine creativity with technical proficiency to solve problems</li>
+									<li>Understand the role of typography, color & other design principles within the interactive systems</li>
+								</ul>
+								<br>
+								<h5 class="txt-strong no-indent">Equip yourself as a designer</h5>
+								<ul class="bullets">
+									<li>Work with other designers and developers to implement solutions</li>
+									<li>Be comfortable approaching basic programming challenges</li>
+									<li>Have the skills necessary to design and build simple websites</li>
+									<li>Archive your work for future use in a portfolio or as a functioning website</li>
+								</ul>
+								<br>
+								<h5 class="txt-strong no-indent">Talk like a designer</h5>
+								<ul class="bullets">
+									<li>Be conversant in basic concepts and terminology of designing and building interactive experiences</li>
+									<li>Be able to contextualize your own work historically and what’s current</li>
+									<li>Offer substantive critique of similar projects</li>
+								</ul>
+							</div>
+						</div>
+
 					</div>
 				</section>
 
@@ -35,38 +71,35 @@
 						</div>
 
 						<div class="subsection">
-							<div class="section-header">
-								<h6 class="txt-strong">01</h6>
-								<h6>Jan 26&#8212;30</h6>
-							</div>
-							<div class="section-content">
-								<h4><a href="week-01.php">Hello, World</a></h4>
-								<h5>Lab</h5>
-								<p>This week’s Lab is an introduction to the course and to building interactive experiences, with an emphasis on coding websites. We’ll be getting set up for the semester by building a simple page to host our projects. We’ll also complete our first project, which is an introduction to HTML and page structure.
-								</p>
-								<h5>Studio</h5>
-								<p>This week’s Lab is an introduction to the course and to building interactive experiences, with an emphasis on coding websites. We’ll be getting set up for the semester by building a simple page to host our projects. We’re also going to have our first project, which is an introduction to HTML and page structure.
-								</p>
-								<div class="links-list">
-									<h6 class="mt-md">Reading list</h6>
-									<ul>
-										<li><a href="http://en.wikipedia.org/wiki/Johannes_Gutenberg" target="_blank">Gutenberg</a> and his <a href="http://en.wikipedia.org/wiki/Printing_press#Gutenberg.27s_press" target="_blank">printing press</a></li>
-										<li><a href="http://www.newyorker.com/magazine/2015/01/26/cobweb" target="_blank">The Cobweb</a></li>
-										<li><a href="http://www.uie.com/articles/three_hund_million_button" target="_blank">The $300 Million Button</a></li>
-									</ul>
+							<a href="week-01.php">
+								<div class="section-header">
+									<h6 class="txt-strong">01</h6>
+									<h6>Jan 26&#8212;30</h6>
 								</div>
-
-							</div>
+								<div class="section-content">
+									<h5>Lab</h5>
+									<h4>Introduction</h4>
+									<h5>Studio</h5>
+									<h4>What is interaction design?</h4>
+									<h4>Discovery - Design Research</h4>
+								</div>
+							</a>
 						</div>
 
 						<div class="subsection">
-							<div class="section-header">
-								<h6 class="txt-strong">02</h6>
-								<h6>February 2</h6>
-							</div>
-							<div class="section-content">
-								<h4><a href="week-02">Title</a></h4>
-							</div>
+							<a href="#">
+								<div class="section-header">
+									<h6 class="txt-strong">02</h6>
+									<h6>Feb 2&#8212;6</h6>
+								</div>
+								<div class="section-content">
+									<h5>Lab</h5>
+									<h4>Documenting progress</h4>
+									<h5>Studio</h5>
+									<h4>No Class</h4>
+									<h4>Discovery - Synthesis</h4>
+								</div>
+							</a>
 						</div>
 
 						<div class="subsection">
@@ -222,6 +255,31 @@
 					</div>
 				</section>
 
+				<section id="projects">
+					<div class="container-fluid">
+						<div class="inner">
+							<div class="section-header">
+								<h2>Projects</h2>
+							</div>
+							<div class="section-content">
+
+								<p>There are 3 big buckets of assignments - <span class="txt-strong">Toolbox</span>, <span class="txt-strong">Strategic</span>, and <span class="txt-strong">Final</span>.
+								Toolbox projects are meant to be quick (spend no more than 2hrs) and functional. These projects will literally build up your designer’s toolbox and help jumpstart your strategic design projects.</p>
+
+								<p>Strategic projects are small & large exercises that builds up to the final. Each student will be assigned to a group to work together in all of the exercises under the chosen theme.</p>
+
+								<p>Final project is how everything will be cohesively tied together into a presentation.</p>
+
+								<p>Due dates for each project is noted in the calendar.
+								Accompanying reading assignments will be noted (& emailed) throughout the semester.</p>
+
+								<p>All projects should be submitted on each student’s Tumblr page. (Even if the Strategic and Final projects are done in groups, each student is responsible for individual documentation).</p>
+								</p>
+							</div>
+						</div>
+					</div>
+				</section>
+
 				<section id="resources">
 					<div class="container-fluid">
 						<div class="inner">
@@ -238,8 +296,8 @@
 							</div>
 							<div class="section-content">
 								<ul class="links-list">
-									<li><a href="">Some Article</a></li>
-									<li><a href="">Some Article</a></li>
+									<li>Universal Principles of Design (Oka, Weatherhill)</li>
+									<li>How to Wrap Five Eggs (Lidwell, Holden, Butler, Rockport)</a></li>
 								</ul>
 							</div>
 						</div>
@@ -278,22 +336,20 @@
 								<h2>Grading</h2>
 							</div>
 							<div class="section-content">
-								<p>This course serves as a complement to Core Studio Interaction. The assignments are built to work in tandem with the projects students are developing in the studio class. The lab is designed around a series of small workshops that teach beginning and intermediate interaction design through a hands-on engagement with HTML and CSS.</p>
-								<p>This course serves as a complement to Core Studio Interaction. The assignments are built to work in tandem with the projects students are developing in the studio class. The lab is designed around a series of small workshops that teach beginning and intermediate interaction design through a hands-on engagement with HTML and CSS.</p>
 							</div>
 						</div>
 
 						<div class="subsection">
 							<div class="section-header">
-								<h3>Grading criteria</h3>
+								<h3>Grading criteria: Lab</h3>
 							</div>
 							<div class="section-content">
 								<h5 class="txt-strong">Design-driven</h5>
 								<p>Does the code accurately represent the designs? Does it contribute to or improve the designs?</p>
 								<h5 class="txt-strong mt-sm">Robustness</h5>
-								<p>Does the code accurately represent the designs? Does it contribute to or improve the designs?</p>
-								<h5 class="txt-strong mt-sm">Design-driven</h5>
-								<p>Does the code accurately represent the designs? Does it contribute to or improve the designs?</p>
+								<p>Is the code largely free of errors? Are all platforms, browsers, and devices considered? </p>
+								<h5 class="txt-strong mt-sm">Elegance</h5>
+								<p>Is the code neat? Is it readable? Is it organized? Can it grow and scale?</p>
 							</div>
 						</div>
 
@@ -303,9 +359,9 @@
 							</div>
 							<div class="section-content">
 								<h5 class="">Attendance & participation: <span class="txt-strong">20%</span></h5>
-								<h5 class="mt-sm">Weekly projects: <span class="txt-strong">30%</span></h5>
-								<h5 class="mt-sm">Midterm project: <span class="txt-strong">20%</span></h5>
-								<h5 class="mt-sm">Final project: <span class="txt-strong">30%</span></h5>
+								<h5 class="mt-sm">Toolbox projects: <span class="txt-strong">20%</span></h5>
+								<h5 class="mt-sm">Strategic projects: <span class="txt-strong">40%</span></h5>
+								<h5 class="mt-sm">Final presentation: <span class="txt-strong">20%</span></h5>
 							</div>
 						</div>
 
@@ -314,51 +370,23 @@
 								<h3>Grading scale</h3>
 							</div>
 							<div class="section-content">
-								<h3 class="pull-left">A</h3>
-								<ul class="pull-left pl-md mb-md">
-									<li class="gray"><span class="txt-md mr-sm">&nbsp;&nbsp;</span>N/A</li>
-									<li><span class="txt-md mr-sm">&nbsp;&nbsp;</span>Lorem ipsum</li>
-									<li><span class="txt-md mr-sm">–</span>Lorem ipsum</li>
-								</ul>
+								<h3 class="pull-left mb-md mr-md">A</h3>
+								<p>Outstanding performance, work excels consistently in all areas</p>
 								<div class="clear"></div>
-								<h3 class="pull-left">B</h3>
-								<ul class="pull-left pl-md mb-md">
-									<li><span class="txt-md mr-sm">+</span>Lorem ipsum</li>
-									<li><span class="txt-md mr-sm">&nbsp;&nbsp;</span>Lorem ipsum</li>
-									<li><span class="txt-md mr-sm">–</span>Lorem ipsum</li>
-								</ul>
+								<h3 class="pull-left mb-md mr-md">B</h3>
+								<p>Exceeding basic expectations for all assignments</p>
 								<div class="clear"></div>
-								<h3 class="pull-left">C</h3>
-								<ul class="pull-left pl-md mb-md">
-									<li><span class="txt-md mr-sm">+</span>Lorem ipsum</li>
-									<li><span class="txt-md mr-sm">&nbsp;&nbsp;</span>Lorem ipsum</li>
-									<li><span class="txt-md mr-sm">–</span>Lorem ipsum</li>
-								</ul>
+								<h3 class="pull-left mb-md mr-md">C</h3>
+								<p>Satisfactory performance, the completion of all assignments on time and at an acceptable level</p>
 								<div class="clear"></div>
-								<h3 class="pull-left">D</h3>
-								<ul class="pull-left pl-md mb-md">
-									<li><span class="txt-md mr-sm">&nbsp;&nbsp;</span>Lorem ipsum</li>
-								</ul>
+								<h3 class="pull-left mb-md mr-md">D</h3>
+								<p>Less than satisfactory</p>
 								<div class="clear"></div>
-								<h3 class="pull-left mb-md">F</h3>
-								<ul class="pull-left pl-md mb-md">
-									<li><span class="txt-md mr-sm">&nbsp;&nbsp;</span>Lorem ipsum</li>
-								</ul>
+								<h3 class="pull-left mb-md mr-md">F</h3>
+								<p>Work has not been completed</p>
 								<div class="clear"></div>
-								<h3 class="pull-left mb-md">W</h3>
-								<ul class="pull-left pl-md mb-md">
-									<li><span class="txt-md mr-sm">&nbsp;&nbsp;</span>Lorem ipsum</li>
-								</ul>
-								<div class="clear"></div>
-								<h3 class="pull-left mb-md">WF</h3>
-								<ul class="pull-left pl-md mb-md">
-									<li><span class="txt-md mr-sm">&nbsp;&nbsp;</span>Lorem ipsum</li>
-								</ul>
-								<div class="clear"></div>
-								<h3 class="pull-left mb-md">I</h3>
-								<ul class="pull-left pl-md mb-md">
-									<li><span class="txt-md mr-sm">&nbsp;&nbsp;</span>Lorem ipsum</li>
-								</ul>
+								<h3 class="pull-left mb-md mr-md">I</h3>
+								<p>Incomplete</p>
 								<div class="clear"></div>
 							</div>
 						</div>

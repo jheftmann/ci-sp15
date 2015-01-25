@@ -9,11 +9,11 @@
 		<h5>
 			Studio
 			<br>
-			PUCD 2126
+			PUCD 2125, 6576
 			<br>
 			Tues./Thurs. 1900&#8212;2140
 			<br>
-			Room U 306
+			Room TBD
 			<br>
 			Minnie Choi
 			<br>
@@ -22,24 +22,29 @@
 		<h5>
 			Lab
 			<br>
-			PUCD 2126
+			PUCD 2126, 6583
 			<br>
 			Mon. 1900&#8212;2140
 			<br>
-			Room U 306
+			Room TBD
 			<br>
 			Jacob Heftmann
 			<br>
 			<a href="mailto:heftmannj@newschool.edu">email@newschool.edu</a>
 		</h5>
 		<h5>
-
+			TA
+			<br>
+			Betty
+			<br>
+			<a href="mailto:quine427@newschool.edu">quine427@newschool.edu</a>
 		</h5>
 	</header>
 	<nav>
 		<ul>
 			<li class="current"><span class="indicator"></span><a href="#description">Description</a></li>
 			<li><span class="indicator"></span><a href="#calendar">Calendar</a></li>
+			<li><span class="indicator"></span><a href="#projects">Projects</a></li>
 			<li><span class="indicator"></span><a href="#resources">Resources</a></li>
 			<li><span class="indicator"></span><a href="#grading">Grading</a></li>
 			<li><span class="indicator"></span><a href="#policies">Policies</a></li>
