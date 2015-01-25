@@ -2,6 +2,17 @@
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
   "creatorBuild" : "8403",
   "files" : {
+    "\/_lib\/js\/fitvids.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_lib\/js\/fitvids.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_lib\/js\/fitvids-ck.js",
+      "fileType" : 64
+    },
     "\/_lib\/less\/v0\/helpers.less" : {
       "ieCompatibility" : 1,
       "inputAbbreviatedPath" : "\/_lib\/less\/v0\/helpers.less",
@@ -18,17 +29,6 @@
       "outputStyle" : 0,
       "fileType" : 1,
       "debugStyle" : 0
-    },
-    "\/_lib\/js\/fitvids.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_lib\/js\/fitvids.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_lib\/js\/fitvids-ck.js",
-      "fileType" : 64
     },
     "\/_lib\/less\/v0\/crossbrowser-fixes.less" : {
       "ieCompatibility" : 1,
@@ -47,6 +47,15 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
+    "\/class-list\/moyer-kristen\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/class-list\/moyer-kristen\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/_lib\/lib.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -57,15 +66,6 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/scripts\/lib.min.js",
       "fileType" : 64
-    },
-    "\/class-list\/moyer-kristen\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/class-list\/moyer-kristen\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/_lib\/less\/bootstrap\/print.less" : {
       "ieCompatibility" : 1,
@@ -119,15 +119,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/class-list\/morales-egas-juan-francisco\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/class-list\/morales-egas-juan-francisco\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/_lib\/less\/bootstrap\/responsive-utilities.less" : {
       "ieCompatibility" : 1,
       "inputAbbreviatedPath" : "\/_lib\/less\/bootstrap\/responsive-utilities.less",
@@ -161,6 +152,15 @@
       "outputStyle" : 0,
       "fileType" : 1,
       "debugStyle" : 0
+    },
+    "\/class-list\/morales-egas-juan-francisco\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/class-list\/morales-egas-juan-francisco\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/class-list\/liu-yung\/index.html" : {
       "ignoreWasSetByUser" : 0,
@@ -311,26 +311,6 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
-    "\/assets\/img\/brand-logo.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/img\/brand-logo.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/img\/brand-logo.png",
-      "initialSize" : 5690,
-      "fileType" : 8192
-    },
-    "\/class-list\/wang-dih\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/class-list\/wang-dih\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/_lib\/js\/v0\/match-height.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -342,25 +322,16 @@
       "outputAbbreviatedPath" : "\/_lib\/js\/v0\/match-height-ck.js",
       "fileType" : 64
     },
-    "\/_lib\/js\/one-page-nav.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_lib\/js\/one-page-nav.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_lib\/js\/one-page-nav-ck.js",
-      "fileType" : 64
-    },
-    "\/class-list\/caesar-kiana\/index.html" : {
+    "\/assets\/img\/brand-logo.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/class-list\/caesar-kiana\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/assets\/img\/brand-logo.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/img\/brand-logo.png",
+      "initialSize" : 5690,
+      "fileType" : 8192
     },
     "\/styles\/less\/_site.less" : {
       "ieCompatibility" : 1,
@@ -379,12 +350,50 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
+    "\/code\/sidebar.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/code\/sidebar.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/class-list\/caesar-kiana\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/class-list\/caesar-kiana\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/_lib\/js\/one-page-nav.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_lib\/js\/one-page-nav.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_lib\/js\/one-page-nav-ck.js",
+      "fileType" : 64
+    },
     "\/class-list\/_jacob\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/class-list\/_jacob\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/class-list\/wang-dih\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/class-list\/wang-dih\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -470,16 +479,14 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
-    "\/_lib\/js\/v0\/image-orientation.js" : {
+    "\/class-list\/jang-ji-hea\/index.html" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_lib\/js\/v0\/image-orientation.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_lib\/js\/v0\/image-orientation-ck.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/class-list\/jang-ji-hea\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/snippets\/sidebar.php" : {
       "ignoreWasSetByUser" : 0,
@@ -490,12 +497,12 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/class-list\/saito-mika\/index.html" : {
+    "\/class-list\/hong-grace\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/class-list\/saito-mika\/index.html",
+      "inputAbbreviatedPath" : "\/class-list\/hong-grace\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -510,44 +517,14 @@
       "outputAbbreviatedPath" : "\/_lib\/js\/config-waitForImages-ck.js",
       "fileType" : 64
     },
-    "\/_lib\/less\/v0\/deprecated.less" : {
-      "ieCompatibility" : 1,
-      "inputAbbreviatedPath" : "\/_lib\/less\/v0\/deprecated.less",
-      "outputAbbreviatedPath" : "\/_lib\/less\/css\/deprecated.css",
-      "outputPathIsSetByUser" : 0,
-      "strictUnits" : 0,
-      "relativeURLS" : 0,
-      "ignore" : 1,
-      "strictImports" : 0,
+    "\/class-list\/saito-mika\/index.html" : {
       "ignoreWasSetByUser" : 0,
-      "shouldRunBless" : 0,
-      "hidden" : 0,
-      "strictMath" : 0,
-      "outputStyle" : 0,
-      "fileType" : 1,
-      "debugStyle" : 0
-    },
-    "\/_lib\/js\/v0\/vertical-center.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_lib\/js\/v0\/vertical-center.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_lib\/js\/v0\/vertical-center-ck.js",
-      "fileType" : 64
-    },
-    "\/_lib\/js\/jquery-2.1.0.min.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_lib\/js\/jquery-2.1.0.min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_lib\/js\/jquery-2.1.0.min-ck.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/class-list\/saito-mika\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/_lib\/less\/v0\/space.less" : {
       "ieCompatibility" : 1,
@@ -566,6 +543,17 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
+    "\/_lib\/js\/jquery-2.1.0.min.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_lib\/js\/jquery-2.1.0.min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_lib\/js\/jquery-2.1.0.min-ck.js",
+      "fileType" : 64
+    },
     "\/class-list\/cho-emily\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -575,23 +563,44 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/class-list\/hong-grace\/index.html" : {
+    "\/_lib\/js\/v0\/vertical-center.js" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/class-list\/hong-grace\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/_lib\/js\/v0\/vertical-center.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_lib\/js\/v0\/vertical-center-ck.js",
+      "fileType" : 64
     },
-    "\/class-list\/jang-ji-hea\/index.html" : {
+    "\/_lib\/js\/v0\/image-orientation.js" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/class-list\/jang-ji-hea\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/_lib\/js\/v0\/image-orientation.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_lib\/js\/v0\/image-orientation-ck.js",
+      "fileType" : 64
+    },
+    "\/_lib\/less\/v0\/deprecated.less" : {
+      "ieCompatibility" : 1,
+      "inputAbbreviatedPath" : "\/_lib\/less\/v0\/deprecated.less",
+      "outputAbbreviatedPath" : "\/_lib\/less\/css\/deprecated.css",
+      "outputPathIsSetByUser" : 0,
+      "strictUnits" : 0,
+      "relativeURLS" : 0,
+      "ignore" : 1,
+      "strictImports" : 0,
+      "ignoreWasSetByUser" : 0,
+      "shouldRunBless" : 0,
+      "hidden" : 0,
+      "strictMath" : 0,
+      "outputStyle" : 0,
+      "fileType" : 1,
+      "debugStyle" : 0
     },
     "\/_lib\/less\/v0\/typography.less" : {
       "ieCompatibility" : 1,
@@ -645,17 +654,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/assets\/img\/mobile-nav-button.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/img\/mobile-nav-button.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/img\/mobile-nav-button.png",
-      "initialSize" : 2768,
-      "fileType" : 8192
-    },
     "\/_lib\/js\/vertical-align.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -666,6 +664,17 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/_lib\/js\/vertical-align-ck.js",
       "fileType" : 64
+    },
+    "\/assets\/img\/mobile-nav-button.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/img\/mobile-nav-button.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/img\/mobile-nav-button.png",
+      "initialSize" : 2768,
+      "fileType" : 8192
     },
     "\/index.php" : {
       "ignoreWasSetByUser" : 0,
@@ -696,6 +705,23 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/_lib\/less\/bootstrap\/utilities.less" : {
+      "ieCompatibility" : 1,
+      "inputAbbreviatedPath" : "\/_lib\/less\/bootstrap\/utilities.less",
+      "outputAbbreviatedPath" : "\/_lib\/less\/css\/utilities.css",
+      "outputPathIsSetByUser" : 0,
+      "strictUnits" : 0,
+      "relativeURLS" : 0,
+      "ignore" : 1,
+      "strictImports" : 0,
+      "ignoreWasSetByUser" : 0,
+      "shouldRunBless" : 0,
+      "hidden" : 0,
+      "strictMath" : 0,
+      "outputStyle" : 0,
+      "fileType" : 1,
+      "debugStyle" : 0
+    },
     "\/_lib\/less\/bootstrap\/grid.less" : {
       "ieCompatibility" : 1,
       "inputAbbreviatedPath" : "\/_lib\/less\/bootstrap\/grid.less",
@@ -717,23 +743,6 @@
       "ieCompatibility" : 1,
       "inputAbbreviatedPath" : "\/_lib\/less\/v0\/layout.less",
       "outputAbbreviatedPath" : "\/_lib\/less\/css\/layout.css",
-      "outputPathIsSetByUser" : 0,
-      "strictUnits" : 0,
-      "relativeURLS" : 0,
-      "ignore" : 1,
-      "strictImports" : 0,
-      "ignoreWasSetByUser" : 0,
-      "shouldRunBless" : 0,
-      "hidden" : 0,
-      "strictMath" : 0,
-      "outputStyle" : 0,
-      "fileType" : 1,
-      "debugStyle" : 0
-    },
-    "\/_lib\/less\/bootstrap\/utilities.less" : {
-      "ieCompatibility" : 1,
-      "inputAbbreviatedPath" : "\/_lib\/less\/bootstrap\/utilities.less",
-      "outputAbbreviatedPath" : "\/_lib\/less\/css\/utilities.css",
       "outputPathIsSetByUser" : 0,
       "strictUnits" : 0,
       "relativeURLS" : 0,
@@ -795,39 +804,25 @@
       "outputAbbreviatedPath" : "\/_lib\/js\/v0\/mobile-nav-ck.js",
       "fileType" : 64
     },
-    "\/_lib\/less\/v0\/reset.less" : {
-      "ieCompatibility" : 1,
-      "inputAbbreviatedPath" : "\/_lib\/less\/v0\/reset.less",
-      "outputAbbreviatedPath" : "\/_lib\/less\/css\/reset.css",
-      "outputPathIsSetByUser" : 0,
-      "strictUnits" : 0,
-      "relativeURLS" : 0,
-      "ignore" : 1,
-      "strictImports" : 0,
+    "\/code\/index.html" : {
       "ignoreWasSetByUser" : 0,
-      "shouldRunBless" : 0,
+      "ignore" : 0,
       "hidden" : 0,
-      "strictMath" : 0,
-      "outputStyle" : 0,
-      "fileType" : 1,
-      "debugStyle" : 0
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/code\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
-    "\/_lib\/less\/bootstrap\/mixins.less" : {
-      "ieCompatibility" : 1,
-      "inputAbbreviatedPath" : "\/_lib\/less\/bootstrap\/mixins.less",
-      "outputAbbreviatedPath" : "\/_lib\/less\/css\/mixins.css",
-      "outputPathIsSetByUser" : 0,
-      "strictUnits" : 0,
-      "relativeURLS" : 0,
-      "ignore" : 1,
-      "strictImports" : 0,
+    "\/_lib\/js\/v0\/scroll-top.js" : {
       "ignoreWasSetByUser" : 0,
-      "shouldRunBless" : 0,
+      "ignore" : 1,
       "hidden" : 0,
-      "strictMath" : 0,
-      "outputStyle" : 0,
-      "fileType" : 1,
-      "debugStyle" : 0
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_lib\/js\/v0\/scroll-top.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_lib\/js\/v0\/scroll-top-ck.js",
+      "fileType" : 64
     },
     "\/_lib\/js\/waitForImages.js" : {
       "ignoreWasSetByUser" : 0,
@@ -840,16 +835,14 @@
       "outputAbbreviatedPath" : "\/_lib\/js\/waitForImages-ck.js",
       "fileType" : 64
     },
-    "\/_lib\/js\/v0\/load-page.js" : {
+    "\/class-list\/lombardi-kimberly\/index.html" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_lib\/js\/v0\/load-page.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_lib\/js\/v0\/load-page-ck.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/class-list\/lombardi-kimberly\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/styles\/less\/_global.less" : {
       "ieCompatibility" : 1,
@@ -905,25 +898,33 @@
       "outputAbbreviatedPath" : "\/_lib\/js\/v0\/even-odd-ck.js",
       "fileType" : 64
     },
-    "\/_lib\/js\/v0\/scroll-top.js" : {
+    "\/_lib\/js\/v0\/load-page.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_lib\/js\/v0\/scroll-top.js",
+      "inputAbbreviatedPath" : "\/_lib\/js\/v0\/load-page.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_lib\/js\/v0\/scroll-top-ck.js",
+      "outputAbbreviatedPath" : "\/_lib\/js\/v0\/load-page-ck.js",
       "fileType" : 64
     },
-    "\/class-list\/lombardi-kimberly\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
+    "\/_lib\/less\/bootstrap\/mixins.less" : {
+      "ieCompatibility" : 1,
+      "inputAbbreviatedPath" : "\/_lib\/less\/bootstrap\/mixins.less",
+      "outputAbbreviatedPath" : "\/_lib\/less\/css\/mixins.css",
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/class-list\/lombardi-kimberly\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "strictUnits" : 0,
+      "relativeURLS" : 0,
+      "ignore" : 1,
+      "strictImports" : 0,
+      "ignoreWasSetByUser" : 0,
+      "shouldRunBless" : 0,
+      "hidden" : 0,
+      "strictMath" : 0,
+      "outputStyle" : 0,
+      "fileType" : 1,
+      "debugStyle" : 0
     },
     "\/_lib\/js\/v0\/window-height.js" : {
       "ignoreWasSetByUser" : 0,
@@ -961,6 +962,23 @@
       "inputAbbreviatedPath" : "\/class-list\/_jacob\/01\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/_lib\/less\/v0\/reset.less" : {
+      "ieCompatibility" : 1,
+      "inputAbbreviatedPath" : "\/_lib\/less\/v0\/reset.less",
+      "outputAbbreviatedPath" : "\/_lib\/less\/css\/reset.css",
+      "outputPathIsSetByUser" : 0,
+      "strictUnits" : 0,
+      "relativeURLS" : 0,
+      "ignore" : 1,
+      "strictImports" : 0,
+      "ignoreWasSetByUser" : 0,
+      "shouldRunBless" : 0,
+      "hidden" : 0,
+      "strictMath" : 0,
+      "outputStyle" : 0,
+      "fileType" : 1,
+      "debugStyle" : 0
     },
     "\/_lib\/lib.less" : {
       "ieCompatibility" : 1,
