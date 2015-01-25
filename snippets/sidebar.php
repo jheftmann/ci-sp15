@@ -11,24 +11,24 @@
 						<br>
 						PUCD 2126
 						<br>
-						Monday 1900&#8212;2140
+						Tues./Thurs. 1900&#8212;2140
 						<br>
 						Room U 306
 						<br>
-						Jacob Heftmann
+						Minnie Choi
 						<br>
-						<a href="mailto:heftmannj@newschool.edu">heftmannj@newschool.edu</a>
+						<a href="mailto:heftmannj@newschool.edu">email@newschool.edu</a>
 					</h5>
 					<h5>
 						Lab
 						<br>
 						PUCD 2126
 						<br>
-						Monday 1900&#8212;2140
+						Mon. 1900&#8212;2140
 						<br>
 						Room U 306
 						<br>
-						Minnie Choi
+						Jacob Heftmann
 						<br>
 						<a href="mailto:heftmannj@newschool.edu">email@newschool.edu</a>
 					</h5>
@@ -49,7 +49,4 @@
 						<li><a href="#">Code snippets</a></li>
 					</ul>
 				</nav>
-				<div class="footer">
-					<h6><a id="top">Top</a></h5>
-				</div>
 			</div>

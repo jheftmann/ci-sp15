@@ -22,20 +22,25 @@ a {
 color: inherit;
 text-decoration: none;
 
-	&:hover {
-	.gray(50);
-	.add-transition;
-	text-decoration: none;
-	cursor: pointer;
-	}
-
 	&:active {
 
 	}
 
 	&:visited {
-	color: inherit !important;
-	text-decoration: none !important;
+		color: inherit;
+		text-decoration: none;
+	}
+
+	&:hover {
+		.gray(50);
+		.add-transition;
+		text-decoration: none;
+		cursor: pointer;
+	}
+
+	&:focus {
+		color: inherit;
+		text-decoration: none;
 	}
 }
 
@@ -126,9 +131,10 @@ p {
 	}
 
 	a {
+		border-bottom: 1px solid @black;
 
 		&:hover {
-
+			border-bottom: 1px solid transparent;
 		}
 
 		&:active {
