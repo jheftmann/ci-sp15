@@ -30,6 +30,7 @@
 										<li>Take a screenshot of the original page and include it in your project folder</li>
 										<li>Put your project on the server</li>
 										<li>Commit and push all your code to Github</li>
+										<li>Back up your work</li>
 									</ol>
 								</p>
 								<div class="links-list">
