@@ -14,7 +14,14 @@
 
 				<section>
 					<div class="container-fluid">
-
+						<div class="subsection">
+							<div class="section-header">
+								<h6 class="txt-strong">&#8212;</h6>
+							</div>
+							<div class="section-content">
+								<h4><a href="class-list/_jacob/">Jacob</a></h4>
+							</div>
+						</div>
 						<div class="subsection">
 							<div class="section-header">
 								<h6 class="txt-strong">01</h6>

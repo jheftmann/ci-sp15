@@ -2878,7 +2878,10 @@ strong,
   margin-bottom: 20px;
 }
 .content section .section-content h4 {
-  margin-bottom: 10px;
+  margin-bottom: 15px;
+}
+.content section .section-content h5 {
+  text-indent: 15px;
 }
 .content section .section-content .links-list h6 {
   font-weight: normal;

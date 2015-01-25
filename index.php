@@ -37,11 +37,15 @@
 						<div class="subsection">
 							<div class="section-header">
 								<h6 class="txt-strong">01</h6>
-								<h6>January 26</h6>
+								<h6>Jan 26&#8212;30</h6>
 							</div>
 							<div class="section-content">
 								<h4><a href="week-01.php">Hello, World</a></h4>
-								<p>Designed around a series of small workshops that teach beginning and intermediate interaction design through a hands-on engagement with HTML and CSS.
+								<h5>Lab</h5>
+								<p>This week’s Lab is an introduction to the course and to building interactive experiences, with an emphasis on coding websites. We’ll be getting set up for the semester by building a simple page to host our projects. We’ll also complete our first project, which is an introduction to HTML and page structure.
+								</p>
+								<h5>Studio</h5>
+								<p>This week’s Lab is an introduction to the course and to building interactive experiences, with an emphasis on coding websites. We’ll be getting set up for the semester by building a simple page to host our projects. We’re also going to have our first project, which is an introduction to HTML and page structure.
 								</p>
 								<div class="links-list">
 									<h6 class="mt-md">Reading list</h6>
