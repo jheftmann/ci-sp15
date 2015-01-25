@@ -45,6 +45,7 @@
 			<li><span class="indicator"></span><a href="#policies">Policies</a></li>
 		</ul>
 		<ul class="subnav">
+			<li><a href="http://www.jacobheftmann.com/ci-sp15/class-list.php">Class list</a></li>
 			<li><a href="#">Syllabus (PDF)</a></li>
 			<li><a href="#">Code snippets</a></li>
 		</ul>

@@ -2813,6 +2813,12 @@ strong,
 .sidebar nav li.current .indicator {
   background-color: #000000;
 }
+.template-class-list .sidebar nav ul {
+  display: none;
+}
+.template-class-list .sidebar nav .subnav {
+  display: block;
+}
 .sidebar h5 {
   margin-bottom: 15px;
   text-indent: 10px;
@@ -2972,3 +2978,18 @@ strong,
 .gray {
   color: #808080;
 }
+/*
+.sdp {
+	.make-sm-column(12);
+	.make-sm-column-offset(1);
+
+	.section-content {
+		.make-sm-column(8);
+		.make-sm-column-offset(0);
+	}
+
+	.subsection {
+		min-height: none;
+	}
+}
+*/
