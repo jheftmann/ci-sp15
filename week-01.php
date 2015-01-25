@@ -19,7 +19,18 @@
 								<h2>Lab</h2>
 							</div>
 							<div class="section-content">
-								<p>This course serves as a complement to Core Studio Interaction. The assignments are built to work in tandem with the projects students are developing in the studio class. The lab is designed around a series of small workshops that teach beginning and intermediate interaction design through a hands-on engagement with HTML and CSS.</p>
+								<p>This week is all about getting comfortable with the workflow and some of our tools.
+									<ol>
+										<li>Install the required software and make accounts for any services you don't have.</li>
+										<li>Create an FTP account</li>
+										<li>Make yourself a page to link all your projects from</li>
+										<li>On your page, make a link to this week's project</li>
+										<li>Recreate a simple version of <a href=""></a> using Markdown. Maintain the hierarchy, links, text, and images of the original article.</li>
+										<li>Export your Markdown to HTML. Paste it into your project page.</li>
+										<li>Put your project on the server</li>
+										<li>Commit and push all your code to Github</li>
+									</ol>
+								</p>
 							</div>
 						</div>
 					</div>

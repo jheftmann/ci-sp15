@@ -40,7 +40,7 @@
 								<h6>January 26</h6>
 							</div>
 							<div class="section-content">
-								<h4><a href="week-01">Hello, World</a></h4>
+								<h4><a href="week-01.php">Hello, World</a></h4>
 								<p>Designed around a series of small workshops that teach beginning and intermediate interaction design through a hands-on engagement with HTML and CSS.
 								</p>
 								<div class="links-list">
