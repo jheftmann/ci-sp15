@@ -1876,7 +1876,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: sans-serif;
+  font-family: "helvetica neue", helvetica, arial, sans-serif;
   font-weight: normal;
   line-height: 1.2;
 }
@@ -2655,7 +2655,7 @@ html {
 }
 body {
   background-color: #ffffff;
-  font-family: ;
+  font-family: "helvetica neue", helvetica, arial, sans-serif;
   font-size: 14px;
   line-height: 1.5;
   color: #000000;
@@ -2719,7 +2719,7 @@ h3 .txt-em .txt-strong,
 h4 .txt-em .txt-strong,
 h5 .txt-em .txt-strong,
 h6 .txt-em .txt-strong {
-  font-weight: 500;
+  font-weight: 700;
 }
 h1 strong,
 h2 strong,
@@ -2733,7 +2733,7 @@ h3 .txt-strong,
 h4 .txt-strong,
 h5 .txt-strong,
 h6 .txt-strong {
-  font-weight: 500;
+  font-weight: 700;
 }
 p {
   margin-bottom: 20px;
@@ -2749,19 +2749,19 @@ p a:hover {
 }
 p em strong .txt-strong,
 p .txt-em strong .txt-strong {
-  font-weight: 500;
+  font-weight: 700;
 }
 p strong,
 p .txt-strong {
-  font-weight: 500;
+  font-weight: 700;
 }
 em strong .txt-strong,
 .txt-em strong .txt-strong {
-  font-weight: 500;
+  font-weight: 700;
 }
 strong,
 .txt-strong {
-  font-weight: 500;
+  font-weight: 700;
 }
 .sidebar {
   position: relative;
@@ -2817,12 +2817,6 @@ strong,
   margin-bottom: 15px;
   text-indent: 10px;
   font-size: 13px;
-  font-weight: normal;
-  font-weight: 500;
-}
-.sidebar h5 em,
-.sidebar h5 .txt-em {
-  font-style: normal;
 }
 .footer {
   margin-left: 15px;
@@ -2880,7 +2874,7 @@ strong,
 }
 .content section .section-content .details-link {
   font-weight: normal;
-  font-weight: 500;
+  font-weight: 700;
   font-size: 11px !important;
   margin-top: 15px;
   display: inline-block;
@@ -2897,7 +2891,7 @@ strong,
 }
 .content section .section-content .links-list h6 {
   font-weight: normal;
-  font-weight: 500;
+  font-weight: 700;
   text-transform: uppercase;
   margin-bottom: 5px;
 }

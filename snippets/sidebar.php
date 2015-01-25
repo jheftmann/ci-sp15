@@ -38,7 +38,7 @@
 	</header>
 	<nav>
 		<ul>
-			<li><span class="indicator"></span><a href="#description">Description</a></li>
+			<li class="current"><span class="indicator"></span><a href="#description">Description</a></li>
 			<li><span class="indicator"></span><a href="#calendar">Calendar</a></li>
 			<li><span class="indicator"></span><a href="#resources">Resources</a></li>
 			<li><span class="indicator"></span><a href="#grading">Grading</a></li>

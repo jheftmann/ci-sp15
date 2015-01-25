@@ -43,7 +43,4 @@
 		</div>
 	</div>
 
-
-
-
 <?php include ('snippets/_footer.php'); ?>

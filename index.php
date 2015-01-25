@@ -36,7 +36,7 @@
 
 						<div class="subsection">
 							<div class="section-header">
-								<h6>01</h6>
+								<h6 class="txt-strong">01</h6>
 								<h6>January 26</h6>
 							</div>
 							<div class="section-content">
@@ -51,16 +51,6 @@
 									</ul>
 								</div>
 
-							</div>
-						</div>
-
-						<div class="subsection">
-							<div class="section-header">
-								<h6 class="txt-strong">01</h6>
-								<h6>January 26</h6>
-							</div>
-							<div class="section-content">
-								<h4>Title</h4>
 							</div>
 						</div>
 
@@ -295,10 +285,10 @@
 								<h3>Final grade calculation</h3>
 							</div>
 							<div class="section-content">
-								<h5 class="txt-strong">Attendance & participation: <span class="txt-strong">20%</span></h5>
-								<h5 class="txt-strong mt-sm">Weekly projects: <span class="txt-strong">30%</span></h5>
-								<h5 class="txt-strong mt-sm">Midterm project: <span class="txt-strong">20%</span></h5>
-								<h5 class="txt-strong mt-sm">Final project: <span class="txt-strong">30%</span></h5>
+								<h5 class="">Attendance & participation: <span class="txt-strong">20%</span></h5>
+								<h5 class="mt-sm">Weekly projects: <span class="txt-strong">30%</span></h5>
+								<h5 class="mt-sm">Midterm project: <span class="txt-strong">20%</span></h5>
+								<h5 class="mt-sm">Final project: <span class="txt-strong">30%</span></h5>
 							</div>
 						</div>
 
