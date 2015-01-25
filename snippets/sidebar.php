@@ -52,7 +52,7 @@
 		<ul class="subnav">
 			<li><a href="http://www.jacobheftmann.com/ci-sp15/class-list.php">Class list</a></li>
 			<li><a href="#">Syllabus (PDF)</a></li>
-			<li><a href="#">Code snippets</a></li>
+			<li><a href="https://github.com/jheftmann/ci-sp15/tree/master/code">Code snippets</a></li>
 		</ul>
 	</nav>
 </div>
