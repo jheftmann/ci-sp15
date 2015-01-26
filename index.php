@@ -343,9 +343,9 @@
 							<div class="section-content">
 								<h5 class="txt-strong">Design-driven</h5>
 								<p>Does the code accurately represent the designs? Does it contribute to or improve the designs?</p>
-								<h5 class="txt-strong mt-sm">Robustness</h5>
+								<h5 class="txt-strong mt-sm">Robust</h5>
 								<p>Is the code largely free of errors? Are all platforms, browsers, and devices considered? </p>
-								<h5 class="txt-strong mt-sm">Elegance</h5>
+								<h5 class="txt-strong mt-sm">Elegant</h5>
 								<p>Is the code neat? Is it readable? Is it organized? Can it grow and scale?</p>
 							</div>
 						</div>
