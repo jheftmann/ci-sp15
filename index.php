@@ -73,184 +73,198 @@
 						<div class="subsection">
 							<a href="week-01.php">
 								<div class="section-header">
-									<h6 class="txt-strong">01</h6>
+									<h6 class="txt-strong">wk 01</h6>
 									<h6>Jan 26&#8212;30</h6>
 								</div>
 								<div class="section-content">
-									<h5>Lab</h5>
-									<h4>Introduction</h4>
-									<h5>Studio</h5>
-									<h4>What is interaction design?</h4>
-									<h4>Discovery - Design Research</h4>
+									<h4>Lab M: Introduction</h4>
+									<h4>Studio T: What is interaction design?</h4>
+									<h4>Studio Th: Discovery - Design Research</h4> | Assignment - Discovery 1 due
 								</div>
 							</a>
 						</div>
 
 						<div class="subsection">
-							<a href="#">
 								<div class="section-header">
-									<h6 class="txt-strong">02</h6>
+									<h6 class="txt-strong">wk 02</h6>
 									<h6>Feb 2&#8212;6</h6>
 								</div>
 								<div class="section-content">
-									<h5>Lab</h5>
-									<h4>Documenting progress</h4>
-									<h5>Studio</h5>
-									<h4>No Class</h4>
-									<h4>Discovery - Synthesis</h4>
+									<h4>Lab M: Documenting progress</h4>
+									<h4>Studio T: No Class</h4>
+									<h4>Studio Th: Discovery - Synthesis | Assignment - Discovery 2 due</h4>
 								</div>
-							</a>
 						</div>
 
 						<div class="subsection">
-							<div class="section-header">
-								<h6 class="txt-strong">03</h6>
-								<h6>February 9</h6>
-							</div>
-							<div class="section-content">
-								<h4><a href="week-02">TBD</a></h4>
-							</div>
+								<div class="section-header">
+									<h6 class="txt-strong">wk 03</h6>
+									<h6>Feb 9&#8212;13</h6>
+								</div>
+								<div class="section-content">
+									<h4>Lab M: Presenting a thesis</h4>
+									<h4>Studio T: Discovery - Competitive Analysis | Assignment - Discovery 3 due</h4>
+									<h4>Studio Th: Discovery - Expressing Concepts | Assignment - Discovery 4 due</h4>
+								</div>
 						</div>
 
 						<div class="subsection">
-							<div class="section-header">
-								<h6 class="txt-strong">&#8212;</h6>
-								<h6>February 16</h6>
-							</div>
-							<div class="section-content">
-								<h4>President's Day&#8212;No class</h4>
-							</div>
+								<div class="section-header">
+									<h6 class="txt-strong">wk 04</h6>
+									<h6>Feb 16&#8212;20</h6>
+								</div>
+								<div class="section-content">
+									<h4>Lab M: No Class - President's Day</h4>
+									<h4>Studio T: Work Session - Discovery 5 Check-in | Assignment - Toolbox 1 due</h4>
+									<h4>Studio Th: Foundation - Wireframing | Assignment - Discovery 5 due</h4>
+								</div>
 						</div>
 
 						<div class="subsection">
-							<div class="section-header">
-								<h6 class="txt-strong">04</h6>
-								<h6>February 23</h6>
-							</div>
-							<div class="section-content">
-								<h4><a href="week-02">TBD</a></h4>
-							</div>
+								<div class="section-header">
+									<h6 class="txt-strong">wk 05</h6>
+									<h6>Feb 23&#8212;27</h6>
+								</div>
+								<div class="section-content">
+									<h4>Lab M: Architecture</h4>
+									<h4>Studio T: Foundation - Types of Prototyping | Assignment - Toolbox 2 due</h4>
+									<h4>Studio Th: Foundation - User Testing | Assignment - Foundation 1 due</h4>
+								</div>
 						</div>
 
 						<div class="subsection">
-							<div class="section-header">
-								<h6 class="txt-strong">05</h6>
-								<h6>March</h6>
-							</div>
-							<div class="section-content">
-								<h4><a href="week-02">TBD</a></h4>
-							</div>
+								<div class="section-header">
+									<h6 class="txt-strong">wk 06</h6>
+									<h6>Mar 2&#8212;6</h6>
+								</div>
+								<div class="section-content">
+									<h4>Lab M: Blueprints</h4>
+									<h4>Studio T: Foundation - Evaluation, Work session - Foundation 2</h4>
+									<h4>Studio Th: Foundation - Iteration | Assignment - Foundation 2 due</h4>
+								</div>
 						</div>
 
 						<div class="subsection">
-							<div class="section-header">
-								<h6 class="txt-strong">06</h6>
-								<h6>March 9</h6>
-							</div>
-							<div class="section-content">
-								<h4><a href="week-02">TBD</a></h4>
-							</div>
+								<div class="section-header">
+									<h6 class="txt-strong">wk 07</h6>
+									<h6>Mar 9&#8212;12</h6>
+								</div>
+								<div class="section-content">
+									<h4>Lab M: Stucco</h4>
+									<h4>Studio T: Design - Be Inspired/Moodboard | Assignment - Foundation 3 due</h4>
+									<h4>Studio Th: Work Session - Foundation 4 Design Check-in</h4>
+								</div>
 						</div>
 
 						<div class="subsection">
-							<div class="section-header">
-								<h6 class="txt-strong">07</h6>
-								<h6>March 16</h6>
-							</div>
-							<div class="section-content">
-								<h4><a href="week-02">Midterm project due</a></h4>
-							</div>
+								<div class="section-header">
+									<h6 class="txt-strong">wk 08</h6>
+									<h6>Mar 16&#8212;20</h6>
+								</div>
+								<div class="section-content">
+									<h4>Lab M: Work Session - Foundation 4 Lab Check-in</h4>
+									<h4>Studio T: Studio: Midterm Crit I</h4>
+									<h4>Studio Th: Studio: Midterm Crit II</h4>
+								</div>
+						</div>
+
+
+						<div class="subsection">
+								<div class="section-header">
+									<h6 class="txt-strong">-</h6>
+									<h6>Mar 23&#8212;27</h6>
+								</div>
+								<div class="section-content">
+									<h4>No Classes - Spring Break</h4>
+								</div>
 						</div>
 
 						<div class="subsection">
-							<div class="section-header">
-								<h6 class="txt-strong">—</h6>
-								<h6>March 23</h6>
-							</div>
-							<div class="section-content">
-								<h4>Spring break&#8212;no class</h4>
-							</div>
+								<div class="section-header">
+									<h6 class="txt-strong">wk 09</h6>
+									<h6>Mar 30&#8212;Apr 2</h6>
+								</div>
+								<div class="section-content">
+									<h4>Lab M: Iterating</h4>
+									<h4>Studio T: Design - Design Principles | Assignment - Toolbox 3 due</h4>
+									<h4>Studio Th: Design - Typography & Color | Assignment - Design 1 due</h4>
+								</div>
 						</div>
 
 						<div class="subsection">
-							<div class="section-header">
-								<h6 class="txt-strong">08</h6>
-								<h6>March 30</h6>
-							</div>
-							<div class="section-content">
-								<h4><a href="week-02">TBD</a></h4>
-							</div>
+								<div class="section-header">
+									<h6 class="txt-strong">wk 10</h6>
+									<h6>Apr 6&#8212;9</h6>
+								</div>
+								<div class="section-content">
+									<h4>Lab M: Content Creating</h4>
+									<h4>Studio T: Design - Visual Design | Assignment - Design 2 due</h4>
+									<h4>Studio Th: Work Session - Visual Design | Assignment - Design 3 check-in</h4>
+								</div>
 						</div>
 
 						<div class="subsection">
-							<div class="section-header">
-								<h6 class="txt-strong">09</h6>
-								<h6>April 6</h6>
-							</div>
-							<div class="section-content">
-								<h4><a href="week-02">TBD</a></h4>
-							</div>
+								<div class="section-header">
+									<h6 class="txt-strong">wk 11</h6>
+									<h6>Apr 13&#8212;17</h6>
+								</div>
+								<div class="section-content">
+									<h4>Lab M: Works everywhere</h4>
+									<h4>Studio T: Mobile - Intro, Human Interface Guidelines | Assignment - Design 3 due</h4>
+									<h4>Studio Th: Mobile - Designing Language for Mobile  | Assignment - Toolbox 4 due</h4>
+								</div>
 						</div>
 
 						<div class="subsection">
-							<div class="section-header">
-								<h6 class="txt-strong">10</h6>
-								<h6>April 13</h6>
-							</div>
-							<div class="section-content">
-								<h4><a href="week-02">TBD</a></h4>
-							</div>
+								<div class="section-header">
+									<h6 class="txt-strong">wk 12</h6>
+									<h6>Apr 20&#8212;24</h6>
+								</div>
+								<div class="section-content">
+									<h4>Lab M: Javascript</h4>
+									<h4>Studio T: Mobile - Design Flows | Assignment - Mobile 1 due</h4>
+									<h4>Studio Th: Mobile - User Journey & Storyboarding</h4>
+								</div>
 						</div>
 
 						<div class="subsection">
-							<div class="section-header">
-								<h6 class="txt-strong">11</h6>
-								<h6>April 20</h6>
-							</div>
-							<div class="section-content">
-								<h4><a href="week-02">TBD</a></h4>
-							</div>
+								<div class="section-header">
+									<h6 class="txt-strong">wk 13</h6>
+									<h6>Apr 27&#8212;31</h6>
+								</div>
+								<div class="section-content">
+									<h4>Lab M: Tying it all together</h4>
+									<h4>Studio T: Work Session - Storyboarding | Assignment - Mobile 2 due</h4>
+									<h4>Studio Th: Mobile - Design Execution | Assignment - Mobile 3 due </h4>
+								</div>
 						</div>
 
 						<div class="subsection">
-							<div class="section-header">
-								<h6 class="txt-strong">12</h6>
-								<h6>April 27</h6>
-							</div>
-							<div class="section-content">
-								<h4><a href="week-02">TBD</a></h4>
-							</div>
+								<div class="section-header">
+									<h6 class="txt-strong">wk 14</h6>
+									<h6>May 4&#8212;8</h6>
+								</div>
+								<div class="section-content">
+									<h4>Lab M: Work Session</h4>
+									<h4>Studio T: Work Session - Mobile Design | Assignment - Mobile 4 Checkin</h4>
+									<h4>Studio Th: How to Put it All Together | Assignment - Mobile 4 due</h4>
+								</div>
 						</div>
 
 						<div class="subsection">
-							<div class="section-header">
-								<h6 class="txt-strong">13</h6>
-								<h6>May 4</h6>
-							</div>
-							<div class="section-content">
-								<h4><a href="week-02">TBD</a></h4>
-							</div>
+								<div class="section-header">
+									<h6 class="txt-strong">wk 15</h6>
+									<h6>May 4&#8212;8</h6>
+								</div>
+								<div class="section-content">
+									<h4>Lab M: QA</h4>
+									<h4>Studio T: Work Session - Final Project Check-in</h4>
+									<h4>Studio Th: Final Crit</h4>
+								</div>
 						</div>
 
-						<div class="subsection">
-							<div class="section-header">
-								<h6 class="txt-strong">14</h6>
-								<h6>May 11</h6>
-							</div>
-							<div class="section-content">
-								<h4><a href="week-02">TBD</a></h4>
-							</div>
-						</div>
 
-						<div class="subsection">
-							<div class="section-header">
-								<h6 class="txt-strong">15</h6>
-								<h6>May 18</h6>
-							</div>
-							<div class="section-content">
-								<h4><a href="week-15">Final project due</a></h4>
-							</div>
-						</div>
+
 
 					</div>
 				</section>
@@ -275,6 +289,40 @@
 
 								<p>All projects should be submitted on each student’s Tumblr page. (Even if the Strategic and Final projects are done in groups, each student is responsible for individual documentation).</p>
 								</p>
+								<br>
+								<h5 class="txt-strong no-indent">Toolbox Assignments</h5>
+								<ul class="bullets">
+									<li>Toolbox 1: Sitemap of an existing site</li>
+									<li>Toolbox 2: Wireframe of an existing page</li>
+									<li>Toolbox 3: Create grids for screen sizes 1280, 1024, 768, 320</li>
+									<li>Toolbox 4: Usability audit of an existing mobile app</li>
+								</ul>
+								<br>
+								<h5 class="txt-strong no-indent">Strategic Assignments</h5>
+								<ul class="bullets">
+									<li>Discovery 1: Define the Problem</li>
+									<li>Discovery 2: Design Research</li>
+									<li>Discovery 3: Design Synthesis</li>
+									<li>Discovery 4: Competitive Analysis</li>
+									<li>Discovery 5: Concept Proposal</li>
+									<br>
+									<li>Foundation 1: Wireframes</li>
+									<li>Foundation 2: Prototype</li>
+									<li>Foundation 3: User Testing Evaluation & Iteration</li>
+									<li>Foundation 4: Design Proposal</li>
+									<br>
+									<li>Design 1: Design Principles</li>
+									<li>Design 2: Design Guidelines</li>
+									<li>Design 3: Visual Design</li>
+									<br>
+									<li>Mobile 1: Mobile Design Guidelines</li>
+									<li>Mobile 2: Mobile Design Flows</li>
+									<li>Mobile 3: User Journey Storyboard</li>
+									<li>Mobile 4: Mobile Design</li>
+								</ul>
+								<br>
+								<h5 class="txt-strong no-indent">Final Presentation</h5>
+								<p>Pull together a presentation that best tells the story of the products designed - from the research, insights, concepts, prototypes to desktop and mobile evolution. </P>
 							</div>
 						</div>
 					</div>
@@ -297,7 +345,13 @@
 							<div class="section-content">
 								<ul class="links-list">
 									<li>Universal Principles of Design (Oka; Weatherhill)</li>
-									<li>How to Wrap Five Eggs (Lidwell, Holden, Butler; Rockport)</a></li>
+									<li>How to Wrap Five Eggs (Lidwell, Holden, Butler; Rockport)</li>
+									<li><a href="http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?s=books&ie=UTF8&qid=1422245385&sr=1-1&keywords=don%27t+make+me+think">Don't Make Me Think: A Common Sense Approach to Web Usability (Krug; New Riders)</a></li>
+									<li><a href="http://www.amazon.com/Designing-Interactions-Bill-Moggridge/dp/0262134748/ref=sr_1_1?s=books&ie=UTF8&qid=1422245441&sr=1-1&keywords=designing+interactions">Desigining Interactions (Moggridge; The MIT Press)</a></li>
+									<li><a href="http://www.amazon.com/Sketching-User-Experiences-Interactive-Technologies/dp/0123740371/ref=sr_1_1?s=books&ie=UTF8&qid=1422245569&sr=1-1&keywords=sketching+user+experiences">Sketching User Experiences (Buxton; Morgan Kaufmann)</a></li>
+									<li><a href="http://www.amazon.com/Communicating-Design-Developing-Documentation-Planning/dp/0321712463/ref=sr_1_2?s=books&ie=UTF8&qid=1422245693&sr=1-2&keywords=communication+design">Communicating Design (Brown; New Riders)</a></li>
+									<li><a href="http://www.amazon.com/Web-Typography-Jason-Santa-Maria/dp/1937557073/ref=sr_1_1?s=books&ie=UTF8&qid=1422245981&sr=1-1&keywords=on+web+typography">On Web Typography (Santa Maria; A Book Apart)</a></li>
+									<li><a href="http://www.amazon.com/Wicked-Problems-Solving-Handbook-Action/dp/0615593151/ref=sr_1_1?s=books&ie=UTF8&qid=1422246127&sr=1-1&keywords=wicked+problems">Wicked Problems: Problems Worth Solving (Kolko; ac4d)</a></li>
 								</ul>
 							</div>
 						</div>
@@ -308,6 +362,9 @@
 							</div>
 							<div class="section-content">
 								<p>This will grow as the semester continues. Each week may also have specific resources associated with it.</p>
+								<ul class="links-list">
+									<li><a href="http://uxdesign.cc/how-to-keep-up-do-date-on-ux-design/">UX Links - Hints from the Lazy Bear</a></li>
+								</ul>
 							</div>
 						</div>
 
@@ -343,9 +400,9 @@
 							<div class="section-content">
 								<h5 class="txt-strong">Design-driven</h5>
 								<p>Does the code accurately represent the designs? Does it contribute to or improve the designs?</p>
-								<h5 class="txt-strong mt-sm">Robust</h5>
+								<h5 class="txt-strong mt-sm">Robustness</h5>
 								<p>Is the code largely free of errors? Are all platforms, browsers, and devices considered? </p>
-								<h5 class="txt-strong mt-sm">Elegant</h5>
+								<h5 class="txt-strong mt-sm">Elegance</h5>
 								<p>Is the code neat? Is it readable? Is it organized? Can it grow and scale?</p>
 							</div>
 						</div>
@@ -358,6 +415,40 @@
 								<h5 class="">Attendance & participation: <span class="txt-strong">20%</span></h5>
 								<h5 class="mt-sm">Toolbox projects: <span class="txt-strong">20%</span></h5>
 								<h5 class="mt-sm">Strategic projects: <span class="txt-strong">40%</span></h5>
+								<h5 class="mt-sm">Final presentation: <span class="txt-strong">20%</span></h5>
+							</div>
+						</div>
+
+						<div class="subsection">
+							<div class="section-header">
+								<h3>Grading criteria: Studio</h3>
+							</div>
+							<div class="section-content">
+								<h5 class="txt-strong">Process-driven</h5>
+								<p>Is your current step of the design backed by your previous step(s)? Are you exploring multiple solutions to the problem?</p>
+								<h5 class="txt-strong mt-sm">Concept</h5>
+								<p>Is it a thoughtful solution based on research and synthesis? Is it meaningful to the users? Does it pursue authenticity?</p>
+								<h5 class="txt-strong mt-sm">Craft</h5>
+								<p>Are you paying attention to typographic, compositional, and coding details?</p>
+								<h5 class="txt-strong mt-sm">Presentation</h5>
+								<p>Are you communicating clearly the key ideas and insights through verbal, written, design and development executions?</p>
+							</div>
+						</div>
+
+						<div class="subsection">
+							<div class="section-header">
+								<h3>Final grade calculation</h3>
+							</div>
+							<div class="section-content">
+								<h5 class="">Attendance & participation: <span class="txt-strong">20%</span></h5>
+								<h5 class="mt-sm">Toolbox projects: <span class="txt-strong">20%</span></h5>
+								<h5 class="mt-sm">Strategic projects: <span class="txt-strong">40%</span></h5>
+								<ul class="links-list">
+									<li>Discovery - 10%</li>
+									<li>Foundation - 10%</li>
+									<li>Design - 10%</li>
+									<li>Mobile - 10%</li>
+								</ul>
 								<h5 class="mt-sm">Final presentation: <span class="txt-strong">20%</span></h5>
 							</div>
 						</div>
