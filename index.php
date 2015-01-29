@@ -77,9 +77,12 @@
 									<h6>Jan 26&#8212;30</h6>
 								</div>
 								<div class="section-content">
-									<h4>Lab M: Introduction</h4>
-									<h4>Studio T: What is interaction design?</h4>
-									<h4>Studio Th: Discovery - Design Research</h4> | Assignment - Discovery 1 due
+									<h5>Lab (M)</h5>
+									<h4>Introduction</h4>
+									<h5>Studio (T)</h5>
+									<h4>What is interaction design?</h4>
+									<h5>Studio (Th)</h5>
+									<h4>Discovery - Design Research | Assignment - Discovery 1 due</h4>
 								</div>
 							</a>
 						</div>
