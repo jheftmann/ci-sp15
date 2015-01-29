@@ -17,7 +17,7 @@
 			<br>
 			Minnie Choi
 			<br>
-			<a href="mailto:heftmannj@newschool.edu">email@newschool.edu</a>
+			<!-- <a href="mailto:heftmannj@newschool.edu">email@newschool.edu</a> -->
 		</h5>
 		<h5>
 			Lab
@@ -30,7 +30,7 @@
 			<br>
 			Jacob Heftmann
 			<br>
-			<a href="mailto:heftmannj@newschool.edu">email@newschool.edu</a>
+			<!-- <a href="mailto:heftmannj@newschool.edu">email@newschool.edu</a> -->
 		</h5>
 		<h5>
 			TA
