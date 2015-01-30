@@ -63,7 +63,7 @@
 -->
 							</div>
 							<div class="section-header">
-								<h2>Studio</h2>
+							<h2>Studio</h2>
 							</div>
 							<div class="section-content">
 								<p><strong>01/29/15</strong><br>These are what we covered in class today:
