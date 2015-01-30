@@ -19,6 +19,8 @@
 								<h2>Lab</h2>
 							</div>
 							<div class="section-content">
+								<p>Class cancelled</p>
+<!--
 								<p>This week’s Lab is an introduction to the course and to building interactive experiences, with an emphasis on coding websites. We’ll be getting set up for the semester by building a simple page to host our projects. We’re also going to have our first project, which is an introduction to HTML and page structure.</p>
 									<ol>
 										<li>Install the required software and make accounts for any services you don't have.</li>
@@ -58,19 +60,7 @@
 										<li><a href="http://daringfireball.net/projects/markdown/syntax" target="_blank">Markdown syntax guide</a></li>
 									</ul>
 								</div>
-							</div>
-						</div>
-					</div>
-				</section>
-
-				<section id="description">
-					<div class="container-fluid">
-						<div class="inner">
-							<div class="section-header">
-								<h2>Studio</h2>
-							</div>
-							<div class="section-content">
-								<p>This course serves as a complement to Core Studio Interaction. The assignments are built to work in tandem with the projects students are developing in the studio class. The lab is designed around a series of small workshops that teach beginning and intermediate interaction design through a hands-on engagement with HTML and CSS.</p>
+-->
 							</div>
 						</div>
 					</div>
