@@ -62,8 +62,11 @@
 								</div>
 -->
 							</div>
+							<div class="section-header">
+								<h2>Studio</h2>
+							</div>
 							<div class="section-content">
-								<p>These are what we covered in class today:
+								<p><strong>01/29/15</strong><br>These are what we covered in class today:
 									<ul>
 										<li>Intro: About Minnie, Class Objectives & Logistics</li>
 										<li>What is Interaction Design?</li>
