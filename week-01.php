@@ -62,6 +62,23 @@
 								</div>
 -->
 							</div>
+							<div class="section-content">
+								<p>These are what we covered in class today:
+									<ul>
+										<li>Intro: About Minnie, Class Objectives & Logistics</li>
+										<li>What is Interaction Design?</li>
+										<li>Assign Groups</li>
+										<li>In-Class Exercise 1: Team Leap</li>
+										<li>In-Class Exercise 2: What problems were they trying to solve?</li>
+										<li>Assignments / Grading Criteria / Grade Breakdown</li>
+										<li><strong>ACTION ITEM 1: Create a Tumblr page</strong></li>
+										<li><strong>ACTION ITEM 2: Define a Problem/Need within your theme then document the process on Tubmlr</strong></li>
+										<li><strong>ACTION ITEM 3: Share your Tumblr URL with Betty (quine427@newschool.edu) (due 2/3)</strong></li>
+									</ul>
+								</p>
+								<p>And here's the class guide deck from today's class: <a href="https://dl.dropboxusercontent.com/u/9476278/ci-sp15/Interaction_ClassGuide_012915.pdf">https://dl.dropboxusercontent.com/u/9476278/ci-sp15/Interaction_ClassGuide_012915.pdf</>
+								</P>
+							</div>
 						</div>
 					</div>
 				</section>
