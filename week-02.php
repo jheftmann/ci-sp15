@@ -54,7 +54,8 @@
 									<ul>
 										<li>Code editor: <a href="http://www.barebones.com/products/textwrangler/">TextWrangler</a>(also check out Sublime Text or Coda)</li>
 										<li>FTP client: <a href="http://www.barebones.com/products/textwrangler/">Cyberduck</a> (also check out Transmit or Coda)</li>
-										<li><A href="http://www.github.com">Github</a> account and <a href="https://mac.github.com">desktop app</a></li>
+										<li><a href="http://www.github.com">Github</a> account and <a href="https://mac.github.com">desktop app</a></li>
+										<li><a href="https://github.com/jheftmann/ci-sp15/tree/master/class-list/_jacob">Example code</a></li>
 									</ul>
 								</div>
 							</div>
