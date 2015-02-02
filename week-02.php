@@ -8,8 +8,8 @@
 
 			<div class="content">
 				<header class="site-header">
-					<h6>January 26 &#8212; 30</h6>
-					<h1 class="z">Week 01</h1>
+					<h6>February 2 &#8212; 6</h6>
+					<h1 class="z">Week 02</h1>
 				</header>
 
 				<section id="description">
