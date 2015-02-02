@@ -77,12 +77,9 @@
 									<h6>Jan 26&#8212;30</h6>
 								</div>
 								<div class="section-content">
-									<h5>Lab (M)</h5>
-									<h4>Introduction</h4>
-									<h5>Studio (T)</h5>
-									<h4>What is interaction design?</h4>
-									<h5>Studio (Th)</h5>
-									<h4>Discovery - Design Research | Assignment - Discovery 1 due</h4>
+									<h4>Lab M: Cancelled</h4>
+									<h4>Studio T: What is interaction design?</h4>
+									<h4>Studio T: Discovery - Design Research | Assignment - Discovery 1 due</h4>
 								</div>
 							</a>
 						</div>
@@ -93,7 +90,7 @@
 									<h6>Feb 2&#8212;6</h6>
 								</div>
 								<div class="section-content">
-									<h4>Lab M: Documenting progress</h4>
+									<h4>Lab M: Hello World: Introduction, tools, and process</h4>
 									<h4>Studio T: No Class</h4>
 									<h4>Studio Th: Discovery - Synthesis | Assignment - Discovery 2 due</h4>
 								</div>
@@ -105,7 +102,7 @@
 									<h6>Feb 9&#8212;13</h6>
 								</div>
 								<div class="section-content">
-									<h4>Lab M: Presenting a thesis</h4>
+									<h4>Lab M: Discovery 1 & 2 Lab</h4>
 									<h4>Studio T: Discovery - Competitive Analysis | Assignment - Discovery 3 due</h4>
 									<h4>Studio Th: Discovery - Expressing Concepts | Assignment - Discovery 4 due</h4>
 								</div>
@@ -129,7 +126,7 @@
 									<h6>Feb 23&#8212;27</h6>
 								</div>
 								<div class="section-content">
-									<h4>Lab M: Architecture</h4>
+									<h4>Lab M: Toolbox 1 and Discovery 5 Lab</h4>
 									<h4>Studio T: Foundation - Types of Prototyping | Assignment - Toolbox 2 due</h4>
 									<h4>Studio Th: Foundation - User Testing | Assignment - Foundation 1 due</h4>
 								</div>
@@ -141,7 +138,7 @@
 									<h6>Mar 2&#8212;6</h6>
 								</div>
 								<div class="section-content">
-									<h4>Lab M: Blueprints</h4>
+									<h4>Lab M: Foundation 1 Lab</h4>
 									<h4>Studio T: Foundation - Evaluation, Work session - Foundation 2</h4>
 									<h4>Studio Th: Foundation - Iteration | Assignment - Foundation 2 due</h4>
 								</div>
@@ -153,7 +150,7 @@
 									<h6>Mar 9&#8212;12</h6>
 								</div>
 								<div class="section-content">
-									<h4>Lab M: Stucco</h4>
+									<h4>Lab M: Foundation 2 Lab</h4>
 									<h4>Studio T: Design - Be Inspired/Moodboard | Assignment - Foundation 3 due</h4>
 									<h4>Studio Th: Work Session - Foundation 4 Design Check-in</h4>
 								</div>
@@ -200,7 +197,7 @@
 									<h6>Apr 6&#8212;9</h6>
 								</div>
 								<div class="section-content">
-									<h4>Lab M: Content Creating</h4>
+									<h4>Lab M: Toolbox 3 Lab</h4>
 									<h4>Studio T: Design - Visual Design | Assignment - Design 2 due</h4>
 									<h4>Studio Th: Work Session - Visual Design | Assignment - Design 3 check-in</h4>
 								</div>
@@ -212,7 +209,7 @@
 									<h6>Apr 13&#8212;17</h6>
 								</div>
 								<div class="section-content">
-									<h4>Lab M: Works everywhere</h4>
+									<h4>Lab M: Design 2 Lab</h4>
 									<h4>Studio T: Mobile - Intro, Human Interface Guidelines | Assignment - Design 3 due</h4>
 									<h4>Studio Th: Mobile - Designing Language for Mobile  | Assignment - Toolbox 4 due</h4>
 								</div>
@@ -224,7 +221,7 @@
 									<h6>Apr 20&#8212;24</h6>
 								</div>
 								<div class="section-content">
-									<h4>Lab M: Javascript</h4>
+									<h4>Lab M: Design 3 Lab</h4>
 									<h4>Studio T: Mobile - Design Flows | Assignment - Mobile 1 due</h4>
 									<h4>Studio Th: Mobile - User Journey & Storyboarding</h4>
 								</div>
@@ -236,7 +233,7 @@
 									<h6>Apr 27&#8212;31</h6>
 								</div>
 								<div class="section-content">
-									<h4>Lab M: Tying it all together</h4>
+									<h4>Lab M: Mobile Lab</h4>
 									<h4>Studio T: Work Session - Storyboarding | Assignment - Mobile 2 due</h4>
 									<h4>Studio Th: Mobile - Design Execution | Assignment - Mobile 3 due </h4>
 								</div>
@@ -248,7 +245,7 @@
 									<h6>May 4&#8212;8</h6>
 								</div>
 								<div class="section-content">
-									<h4>Lab M: Work Session</h4>
+									<h4>Lab M: QA</h4>
 									<h4>Studio T: Work Session - Mobile Design | Assignment - Mobile 4 Checkin</h4>
 									<h4>Studio Th: How to Put it All Together | Assignment - Mobile 4 due</h4>
 								</div>
@@ -260,14 +257,11 @@
 									<h6>May 4&#8212;8</h6>
 								</div>
 								<div class="section-content">
-									<h4>Lab M: QA</h4>
+									<h4>Lab M: Launch day &#8212; Final project due</h4>
 									<h4>Studio T: Work Session - Final Project Check-in</h4>
 									<h4>Studio Th: Final Crit</h4>
 								</div>
 						</div>
-
-
-
 
 					</div>
 				</section>
