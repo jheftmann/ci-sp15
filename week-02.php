@@ -26,9 +26,7 @@
 										<li>Create an FTP account</li>
 										<li>Make yourself a page to link all your projects from</li>
 										<li>On your page, make a link to this week’s project</li>
-										<li>Recreate a simple version of a web page of your choosing using Markdown. Maintain the hierarchy, links, text, and images of the original article</li>
-										<li>Export your Markdown to HTML. Paste it into your project page.</li>
-										<li>Take a screenshot of the original page and include it in your project folder</li>
+										<li>Use the code snippets to create your Hello World website</li>
 										<li>Put your project on the server</li>
 										<li>Commit and push all your code to Github</li>
 										<li>Back up your work</li>
@@ -38,7 +36,7 @@
 									<h6 class="mt-md">Deliverables (Assignment)</h6>
 									<ul>
 										<li>Your profile page</li>
-										<li>An unstyled HTML article</li>
+										<li>An unstyled HTML page that says "hello, world"</li>
 									</ul>
 								</div>
 								<div class="links-list">
