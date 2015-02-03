@@ -77,9 +77,9 @@
 									<h6>Jan 26&#8212;30</h6>
 								</div>
 								<div class="section-content">
-									<h4>Lab M: Cancelled</h4>
+									<h4>Lab M: Cancelled (Snowday)</h4>
+									<h4>Studio T: Cancelled (Snowday)</h4>
 									<h4>Studio T: What is interaction design?</h4>
-									<h4>Studio T: Discovery - Design Research | Assignment - Discovery 1 due</h4>
 								</div>
 							</a>
 						</div>
@@ -92,7 +92,7 @@
 								</div>
 								<div class="section-content">
 									<h4>Lab M: Hello World: Introduction, tools, and process</h4>
-									<h4>Studio T: No Class</h4>
+									<h4>Studio T: Discovery - Design Research | Assignment - Discovery 1 due</h4>
 									<h4>Studio Th: Discovery - Synthesis | Assignment - Discovery 2 due</h4>
 								</div>
 							</a>
