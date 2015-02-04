@@ -61,7 +61,21 @@
 							<h2>Studio</h2>
 							</div>
 							<div class="section-content">
-								<!-- ;) -->
+								<div class="section-content">
+								<p><strong>02/03/15</strong><br>These are what we covered in class today:
+									<ul>
+										<li>Notable This Week</li>
+										<li>Share: Discovery 1 Assignment</li>
+										<li>Design Research</li>
+										<li>In-Class Exercise: Create a Research Plan</li>
+										<li><strong>ACTION ITEM 1: Digitalize, refine and add details to your research plan.</strong></li>
+										<li><strong>ACTION ITEM 2: Jumpstart your research!</strong></li>
+										<li><strong>ACTION ITEM 3: Log your research progress to your Tumblr page (and attach the final research plan) (due before class on 2/5)</strong></li>
+									</ul>
+								</p>
+								<p>And here's the class guide deck from today's class: <a href="https://dl.dropboxusercontent.com/u/9476278/ci-sp15/Interaction_ClassGuide_020315.pdf">https://dl.dropboxusercontent.com/u/9476278/ci-sp15/Interaction_ClassGuide_020315.pdf</>
+								</P>
+								</div>
 							</div>
 						</div>
 					</div>
