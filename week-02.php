@@ -61,7 +61,6 @@
 							<h2>Studio</h2>
 							</div>
 							<div class="section-content">
-								<div class="section-content">
 								<p><strong>02/03/15</strong><br>These are what we covered in class today:
 									<ul>
 										<li>Notable This Week</li>
@@ -75,7 +74,6 @@
 								</p>
 								<p>And here's the class guide deck from today's class: <a href="https://dl.dropboxusercontent.com/u/9476278/ci-sp15/Interaction_ClassGuide_020315.pdf">https://dl.dropboxusercontent.com/u/9476278/ci-sp15/Interaction_ClassGuide_020315.pdf</>
 								</P>
-								</div>
 							</div>
 						</div>
 					</div>
