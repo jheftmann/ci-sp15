@@ -90,6 +90,15 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
+    "\/code-samples\/content.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/code-samples\/content.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/styles\/less\/_fonts.less" : {
       "ieCompatibility" : 1,
       "inputAbbreviatedPath" : "\/styles\/less\/_fonts.less",
@@ -143,6 +152,15 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/_lib\/js\/v0\/mobile-nav-ck.js",
       "fileType" : 64
+    },
+    "\/code-samples\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/code-samples\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/class-list\/wang-dih\/index.html" : {
       "ignoreWasSetByUser" : 0,
@@ -250,15 +268,6 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/class-list\/volchok-paula\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/code\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/code\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -385,17 +394,6 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
-    "\/_lib\/js\/v0\/match-height.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_lib\/js\/v0\/match-height.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_lib\/js\/v0\/match-height-ck.js",
-      "fileType" : 64
-    },
     "\/assets\/img\/brand-logo.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -406,6 +404,17 @@
       "outputAbbreviatedPath" : "\/assets\/img\/brand-logo.png",
       "initialSize" : 5690,
       "fileType" : 8192
+    },
+    "\/_lib\/js\/v0\/match-height.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_lib\/js\/v0\/match-height.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_lib\/js\/v0\/match-height-ck.js",
+      "fileType" : 64
     },
     "\/class-list\/_jacob\/index.html" : {
       "ignoreWasSetByUser" : 0,
@@ -529,6 +538,15 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
+    "\/week-03.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/week-03.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/class-list\/saito-mika\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -572,15 +590,6 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/class-list\/lombardi-kimberly\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/class-list\/_jacob\/01\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/class-list\/_jacob\/01\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -815,15 +824,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/code\/sidebar.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/code\/sidebar.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/_lib\/js\/crossbrowser-fixes.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -844,15 +844,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/code\/content.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/code\/content.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/snippets\/sidebar.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -861,6 +852,17 @@
       "inputAbbreviatedPath" : "\/snippets\/sidebar.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/scripts\/site.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 1,
+      "inputAbbreviatedPath" : "\/scripts\/site.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/scripts\/site.js",
+      "fileType" : 64
     },
     "\/styles\/less\/_site.less" : {
       "ieCompatibility" : 1,
@@ -905,6 +907,15 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
+    "\/code-samples\/sidebar.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/code-samples\/sidebar.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/class-list\/caesar-kiana\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -913,17 +924,6 @@
       "inputAbbreviatedPath" : "\/class-list\/caesar-kiana\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/scripts\/site.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 1,
-      "inputAbbreviatedPath" : "\/scripts\/site.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/scripts\/site.js",
-      "fileType" : 64
     },
     "\/_lib\/js\/v0\/resize-proportionally.js" : {
       "ignoreWasSetByUser" : 0,
