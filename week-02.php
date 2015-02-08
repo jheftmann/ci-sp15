@@ -75,6 +75,21 @@
 								<p>And here's the class guide deck from today's class: <a href="https://dl.dropboxusercontent.com/u/9476278/ci-sp15/Interaction_ClassGuide_020315.pdf">https://dl.dropboxusercontent.com/u/9476278/ci-sp15/Interaction_ClassGuide_020315.pdf</>
 								</P>
 							</div>
+							<div class="section-content">
+								<p><strong>02/05/15</strong><br>These are what we covered in class today:
+									<ul>
+										<li>Notable This Week</li>
+										<li>Share: Discovery 2 Assignment</li>
+										<li>Design Research 2 (partial)</li>
+										<li>In-Class Exercise: Trend-scraping</li>
+										<li><strong>ACTION ITEM 1: Do your research!</strong></li>
+										<li><strong>ACTION ITEM 2: Bring all raw research data to class on Tue (2/10)</strong></li>
+										<li><strong>ACTION ITEM 3: Log your research progress to your Tumblr page (due before class on 2/10)</strong></li>
+									</ul>
+								</p>
+								<p>And here's the class guide deck from today's class: <a href="https://dl.dropboxusercontent.com/u/9476278/ci-sp15/Interaction_ClassGuide_020515.pdf">here</>
+								</P>
+							</div>
 						</div>
 					</div>
 				</section>
