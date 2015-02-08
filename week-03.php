@@ -31,7 +31,7 @@
 									</ol>
 								</p>
 								<h5 class="txt-strong">Assignment 2: Personal landing page</h5>
-								<p>You'll be making yourself a simple landing page on the class website. This will make it easy to document your progress through the semester by linking to your Tumblr, Github, and coded projects. <a href="http://www.jacobheftmann.com/ci-sp15/class-list/_jacob/index.html">Here's mine.</a></p>
+								<p>You'll be making yourself a simple landing page on the class website. This will make it easy to document your progress through the semester by linking to your Tumblr, Github, and coded projects. <a href="http://www.jacobheftmann.com/ci-sp15/class-list/_heftmann-jacob/index.html">Here's mine.</a></p>
 									<ol>
 										<li>Make a local version of your landing page using the provided code snippets. Type, don’t copy/paste.</li>
 										<li>Include a short paragraph about yourself</li>
