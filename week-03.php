@@ -20,12 +20,13 @@
 								<h3>Monday<br>02/09/15</h3>
 							</div>
 							<div class="section-content">
+<!--
 								<h5 class="txt-strong">Assignment 1: Documenting your research with HTML</h5>
 								<p>We’re going to learn basic principles of web development by documenting the research you’re doing in Studio. This week we’ll start with HTML using markup to create hierarchy.</p>
 									<ol>
 										<li>Using your collected research, assign hierarchy to the content. You can sketch, use design tools, or just visualize the relative importance of each piece of information. Plan ahead by thinking about how future content will scale in.</li>
 										<li>Create a new local project with a valid <strong>index.html</strong> file.</li>
-										<li>Use at least one instance of each required HTML to mark up your content.</li>
+										<li>Use at least one instance of each required HTML tag to mark up your content.</li>
 										<li>Test it in a browser.</li>
 										<li>Publish via FTP and test. Push to Github.</li>
 									</ol>
@@ -58,9 +59,9 @@
 								<div class="links-list">
 									<h6 class="mt-md">Tools & resources</h6>
 									<ul>
-										<li><a href="http://www.barebones.com/products/textwrangler/">W3Schools HTML reference</a></li>
-										<li><a href="http://www.barebones.com/products/textwrangler/">Mozilla HTML reference</a></li>
-										<li><a href="http://www.sitepoint.com/web-foundations/structural-elements/">Sitepoint: Structural elements</a></li>
+										<li><a href="http://www.w3schools.com/tags/">W3Schools HTML reference</a></li>
+										<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element#embedded_content">Mozilla HTML reference</a></li>
+										<li><a href="http://www.sitepoint.com/web-foundations/structural-elements/">Sitepoint Structural elements</a></li>
 										<li><a href="https://github.com/jheftmann/ci-sp15/tree/master/code-samples/">Code samples</a></li>
 									</ul>
 								</div>
@@ -70,6 +71,7 @@
 										<li><a href="http://www.codecademy.com/tracks/web" target="_blank">Codecademy: HTML Basics and Build Your Own Webpage modules</a></li>
 									</ul>
 								</div>
+-->
 							</div>
 						</div>
 						<hr>
