@@ -35,7 +35,7 @@
 		<h5>
 			TA
 			<br>
-			Betty
+			Betty Quinn
 			<br>
 			<a href="mailto:quine427@newschool.edu">quine427@newschool.edu</a>
 		</h5>

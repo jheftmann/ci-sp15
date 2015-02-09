@@ -20,7 +20,6 @@
 								<h3>Monday<br>02/09/15</h3>
 							</div>
 							<div class="section-content">
-<!--
 								<h5 class="txt-strong">Assignment 1: Documenting your research with HTML</h5>
 								<p>We’re going to learn basic principles of web development by documenting the research you’re doing in Studio. This week we’ll start with HTML using markup to create hierarchy.</p>
 									<ol>
@@ -71,7 +70,6 @@
 										<li><a href="http://www.codecademy.com/tracks/web" target="_blank">Codecademy: HTML Basics and Build Your Own Webpage modules</a></li>
 									</ul>
 								</div>
--->
 							</div>
 						</div>
 						<hr>
