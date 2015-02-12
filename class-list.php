@@ -123,7 +123,7 @@
 								<h6 class="txt-strong">13</h6>
 							</div>
 							<div class="section-content">
-								<h4><a href="class-list/saba-brianna/">Brianna Saba</a></h4>
+								<h4><a href="class-list/phoenix-sander/">Sander Phoenix</a></h4>
 							</div>
 						</div>
 						<div class="subsection">
@@ -131,7 +131,7 @@
 								<h6 class="txt-strong">14</h6>
 							</div>
 							<div class="section-content">
-								<h4><a href="class-list/saito-mika/">Mika Saito</a></h4>
+								<h4><a href="class-list/saba-brianna/">Brianna Saba</a></h4>
 							</div>
 						</div>
 						<div class="subsection">
@@ -139,12 +139,20 @@
 								<h6 class="txt-strong">15</h6>
 							</div>
 							<div class="section-content">
-								<h4><a href="class-list/volchok-paula/">Paula Volchok</a></h4>
+								<h4><a href="class-list/saito-mika/">Mika Saito</a></h4>
 							</div>
 						</div>
 						<div class="subsection">
 							<div class="section-header">
 								<h6 class="txt-strong">16</h6>
+							</div>
+							<div class="section-content">
+								<h4><a href="class-list/volchok-paula/">Paula Volchok</a></h4>
+							</div>
+						</div>
+						<div class="subsection">
+							<div class="section-header">
+								<h6 class="txt-strong">17</h6>
 							</div>
 							<div class="section-content">
 								<h4><a href="class-list/wang-dih/">Dih Wang</a></h4>
