@@ -102,7 +102,7 @@
 								<p>These are what we covered in class today:
 									<ul>
 										<li>Share: Design Synthesis Presentation</li>
-										<li>Expression of Concepts/li>
+										<li>Expression of Concepts</li>
 										<li>In-Class Exercise: Missions Countdown</li>
 										<li><strong>ACTION ITEM 1: Start sketching & bring refined sketches to class on Tue 2/17</strong></li>
 										<li><strong>ACTION ITEM 2: Draw a sitemap of <a href="www.warbyparker.com">www.warbyparker.com</a></strong></li>
