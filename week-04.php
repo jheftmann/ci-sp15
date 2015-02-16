@@ -23,7 +23,7 @@
 								<h5 class="txt-strong">Assignment: Practicing HTML</h5>
 								<p>We won’t be meeting this week because of President’s Day but so we’ll be practicing some of the stuff we learned in the last Lab. Please complete the assignment <strong>before</strong> we meet next week.</p>
 									<ol>
-										<li>Make a free account at <a href="http://www.codecademy.com/" target="_blank">Codecademy</a>.</li>
+										<li>Make a free account at <a href="http://www.codecademy.com/" target="_blank" class="txt-strong">Codecademy</a>.</li>
 										<li>Complete the first two sections: <a href="http://www.codecademy.com/tracks/web" target="_blank"><strong>Introduction to HTML</strong> and <strong>HTML Structure: Using Lists</strong></a>. (That’s four lessons.)</li>
 										<li>Take a screenshot of the completed lessons and email them to me: <a href="mailto:heftmanj@newschool.edu">heftmanj@newschool.edu</a>. (New email – yay! Note that there’s only one <em>n</em> – boo!)</li>
 									</ol>
