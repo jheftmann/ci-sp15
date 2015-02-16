@@ -113,6 +113,7 @@
 						</div>
 
 						<div class="subsection">
+							<a href="week-04.php">
 								<div class="section-header">
 									<h6 class="txt-strong">wk 04</h6>
 									<h6>Feb 16&#8212;20</h6>
@@ -122,6 +123,7 @@
 									<h4>Studio T: Work Session - Discovery 5 Check-in | Assignment - Toolbox 1 due</h4>
 									<h4>Studio Th: Foundation - Wireframing | Assignment - Discovery 5 due</h4>
 								</div>
+							</a>
 						</div>
 
 						<div class="subsection">

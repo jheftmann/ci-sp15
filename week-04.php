@@ -21,15 +21,15 @@
 							</div>
 							<div class="section-content">
 								<h5 class="txt-strong">Assignment: Practicing HTML</h5>
-								<p>We won’t be meeting this week because of President’s Day but .</p>
+								<p>We won’t be meeting this week because of President’s Day but so we’ll be practicing some of the stuff we learned in the last Lab. Please complete the assignment <strong>before</strong> we meet next week.</p>
 									<ol>
 										<li>Make a free account at <a href="http://www.codecademy.com/" target="_blank">Codecademy</a>.</li>
-										<li>Complete the first section: <a href="http://www.codecademy.com/tracks/web" target="_blank">Introduction to HTML</a>.</li>
-										<li>Take a screenshot of the completed lessons and email them to me: <a href="mailto:heftmanj@newschool.edu">heftmanj@newschool.edu</a>. (New email – yay! Note that there's only one 'n' – boo!)</li>
+										<li>Complete the first two sections: <a href="http://www.codecademy.com/tracks/web" target="_blank"><strong>Introduction to HTML</strong> and <strong>HTML Structure: Using Lists</strong></a>. (That’s four lessons.)</li>
+										<li>Take a screenshot of the completed lessons and email them to me: <a href="mailto:heftmanj@newschool.edu">heftmanj@newschool.edu</a>. (New email – yay! Note that there’s only one <em>n</em> – boo!)</li>
 									</ol>
 								</p>
 								<div class="links-list">
-									<h6 class="mt-md">Reading list</h6>
+									<h6 class="mt-md">Reading list from week 3</h6>
 									<ul>
 										<li><a href="http://en.wikipedia.org/wiki/Tim_Berners-Lee" target="_blank">Tim Berners-Lee</a> and his <a href="http://en.wikipedia.org/wiki/World_Wide_Web" target="_blank">world wide web</a></li>
 										<li><a href="http://tanmade.com/writing/2013/10/09/designing-for-archives/" target="_blank">Designing for Archives</a></li>
@@ -50,12 +50,6 @@
 										<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element#embedded_content">Mozilla HTML reference</a></li>
 										<li><a href="http://www.sitepoint.com/web-foundations/structural-elements/">Sitepoint Structural elements</a></li>
 										<li><a href="https://github.com/jheftmann/ci-sp15/tree/master/code-samples/">Code samples</a></li>
-									</ul>
-								</div>
-								<div class="links-list">
-									<h6 class="mt-md">Practice</h6>
-									<ul>
-										<li><a href="http://www.codecademy.com/tracks/web" target="_blank">Codecademy: HTML Basics and Build Your Own Webpage modules</a></li>
 									</ul>
 								</div>
 							</div>
