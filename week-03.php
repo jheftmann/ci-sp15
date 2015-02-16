@@ -79,14 +79,37 @@
 							<h3>Tuesday<br>02/10/15</h3>
 							</div>
 							<div class="section-content">
-								<p>&#8212;</p>
+								<p>These are what we covered in class today:
+									<ul>
+										<li>Notable This Week</li>
+										<li>Share: Design Research Progress</li>
+										<li>Design Synthesis</li>
+										<li>In-Class Exercise 1: We Saw, We Heard</li>
+										<li>In-Class Exercise 2: Storyboard</li>
+										<li><strong>ACTION ITEM 1: Summarize your insights & opportunities</strong></li>
+										<li><strong>ACTION ITEM 2: Refine your storyboards</strong></li>
+										<li><strong>ACTION ITEM 3: Prepare short presentation of insights, opportunities and storyboards</strong></li>
+									</ul>
+								</p>
+								<p>And here's the class guide deck from today's class: <a href="https://dl.dropboxusercontent.com/u/9476278/ci-sp15/Interaction_ClassGuide_021015.pdf">here</a>
+								</P>
 							</div>
 							<div class="section-header">
 							<h2>Studio</h2>
 							<h3>Thursday<br>02/12/15</h3>
 							</div>
 							<div class="section-content">
-								<p>&#8212;</p>
+								<p>These are what we covered in class today:
+									<ul>
+										<li>Share: Design Synthesis Presentation</li>
+										<li>Expression of Concepts</li>
+										<li>In-Class Exercise: Missions Countdown</li>
+										<li><strong>ACTION ITEM 1: Start sketching & bring refined sketches to class on Tue 2/17</strong></li>
+										<li><strong>ACTION ITEM 2: Draw a sitemap of <a href="www.warbyparker.com">www.warbyparker.com</a></strong></li>
+									</ul>
+								</p>
+								<p>And here's the class guide deck from today's class: <a href="https://dl.dropboxusercontent.com/u/9476278/ci-sp15/Interaction_ClassGuide_021215.pdf">here</a>
+								</P>
 							</div>
 						</div>
 					</div>
