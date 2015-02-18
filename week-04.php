@@ -61,7 +61,20 @@
 							<h3>Tuesday<br>02/17/15</h3>
 							</div>
 							<div class="section-content">
-								<p>&#8212;</p>
+								<p>These are what we covered in class today:
+									<ul>
+										<li>Notable This Week</li>
+										<li>Recap of Last Class</li>
+										<li>Design Inspirations</li>
+										<li>Concept Refinement</li>
+										<li>Working Session in groups</li>
+										<li><strong>ACTION ITEM 1: Solidify your homepage concept</strong></li>
+										<li><strong>ACTION ITEM 2: Decide which key screens you'll focus on</strong></li>
+										<li><strong>ACTION ITEM 3: Prepare a presentation that summarizes your discovery phase + concept sketches</strong></li>
+									</ul>
+								</p>
+								<p>And here's the class guide deck from today's class: <a href="https://dl.dropboxusercontent.com/u/9476278/ci-sp15/Interaction_ClassGuide_021715.pdf">here</a>
+								</P>
 							</div>
 							<div class="section-header">
 							<h2>Studio</h2>
