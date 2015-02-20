@@ -81,7 +81,17 @@
 							<h3>Thursday<br>02/19/15</h3>
 							</div>
 							<div class="section-content">
-								<p>&#8212;</p>
+								<p>These are what we covered in class today:
+									<ul>
+										<li>Notable This Week</li>
+										<li>Presentations: Discovery 5</li>
+										<li>Wireframing</li>
+										<li><strong>ACTION ITEM 1: Toolbox 2 - draw a wireframe (individual assignment, due Tue 2/24)</strong></li>
+										<li><strong>ACTION ITEM 2: Start drawing wireframes based on your presented concepts (group assignment, due Thu 2/26)</strong></li>
+									</ul>
+								</p>
+								<p>And here's the class guide deck from today's class: <a href="https://dl.dropboxusercontent.com/u/9476278/ci-sp15/Interaction_ClassGuide_021915.pdf">here</a>
+								</P>
 							</div>
 						</div>
 					</div>
