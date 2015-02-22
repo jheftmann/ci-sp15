@@ -127,6 +127,7 @@
 						</div>
 
 						<div class="subsection">
+							<a href="week-05.php">
 								<div class="section-header">
 									<h6 class="txt-strong">wk 05</h6>
 									<h6>Feb 23&#8212;27</h6>
@@ -136,6 +137,7 @@
 									<h4>Studio T: Foundation - Types of Prototyping | Assignment - Toolbox 2 due</h4>
 									<h4>Studio Th: Foundation - User Testing | Assignment - Foundation 1 due</h4>
 								</div>
+							</a>
 						</div>
 
 						<div class="subsection">
@@ -349,6 +351,7 @@
 								<ul class="links-list">
 									<li>Universal Principles of Design (Oka; Weatherhill)</li>
 									<li>How to Wrap Five Eggs (Lidwell, Holden, Butler; Rockport)</li>
+									<li><a href="http://practicaltypography.com">Butterick’s Practical Typography</a></li>
 									<li><a href="http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?s=books&ie=UTF8&qid=1422245385&sr=1-1&keywords=don%27t+make+me+think">Don't Make Me Think: A Common Sense Approach to Web Usability (Krug; New Riders)</a></li>
 									<li><a href="http://www.amazon.com/Designing-Interactions-Bill-Moggridge/dp/0262134748/ref=sr_1_1?s=books&ie=UTF8&qid=1422245441&sr=1-1&keywords=designing+interactions">Desigining Interactions (Moggridge; The MIT Press)</a></li>
 									<li><a href="http://www.amazon.com/Sketching-User-Experiences-Interactive-Technologies/dp/0123740371/ref=sr_1_1?s=books&ie=UTF8&qid=1422245569&sr=1-1&keywords=sketching+user+experiences">Sketching User Experiences (Buxton; Morgan Kaufmann)</a></li>
