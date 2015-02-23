@@ -9,9 +9,7 @@
 	<!--[if IE]><link rel="shortcut icon" href="/path/to/favicon.ico?v=2"><![endif]-->
 	<link rel="apple-touch-icon-precomposed" href="path/to/favicon-152.png?v=2">
 	<!-- description -->
-	<meta name="description" content="one, two, three" />
-	<!-- keywords -->
-	<meta name="keywords" content="one, two, three" />
+	<meta name="description" content="Class website for Parsons The New School Core Interaction Lab, Spring 2015" />
 	<!-- viewport -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
 	<!-- rewrite URLs for @2x retina images -->
