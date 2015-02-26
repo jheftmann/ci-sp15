@@ -75,7 +75,17 @@
 							<h3>Tuesday<br>02/24/15</h3>
 							</div>
 							<div class="section-content">
-								<!--  -->
+								<p>These are what we covered in class today:
+									<ul>
+										<li>Notable This Week</li>
+										<li>Share: Toolbox 2 - wireframes</li>
+										<li>Working Session in groups: Wireframing</li>
+										<li>Prototyping</li>
+										<li><strong>ACTION ITEM: Finish digital wireframes (6~7 screens)</strong></li>
+									</ul>
+								</p>
+								<p>And here's the class guide deck from today's class: <a href="https://dl.dropboxusercontent.com/u/9476278/ci-sp15/Interaction_ClassGuide_022415.pdf">here</a>
+								</P>
 							</div>
 							<div class="section-header">
 							<h2>Studio</h2>
