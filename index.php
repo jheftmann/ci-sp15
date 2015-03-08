@@ -147,7 +147,7 @@
 									<h6>Mar 2&#8212;6</h6>
 								</div>
 								<div class="section-content">
-									<h4>Lab M: Foundation 1 Lab</h4>
+									<h4>Lab M: CSS Introduction</h4>
 									<h4>Studio T: Foundation - Evaluation, Work session - Foundation 2</h4>
 									<h4>Studio Th: Foundation - Iteration | Assignment - Foundation 2 due</h4>
 								</div>

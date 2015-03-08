@@ -116,6 +116,15 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
+    "\/class-list\/_heftmann-jacob\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/class-list\/_heftmann-jacob\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/_lib\/less\/bootstrap\/code.less" : {
       "ieCompatibility" : 1,
       "inputAbbreviatedPath" : "\/_lib\/less\/bootstrap\/code.less",
@@ -139,6 +148,15 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/week-01.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/code-samples\/layout.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/code-samples\/layout.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -235,6 +253,15 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/scripts\/lib.min.js",
       "fileType" : 64
+    },
+    "\/week-06.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/week-06.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/styles\/less\/_global.less" : {
       "ieCompatibility" : 1,
@@ -416,15 +443,6 @@
       "outputAbbreviatedPath" : "\/_lib\/js\/v0\/match-height-ck.js",
       "fileType" : 64
     },
-    "\/class-list\/_jacob\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/class-list\/_jacob\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/styles\/site.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -490,6 +508,15 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/class-list\/cho-emily\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/class-list\/_heftmann-jacob\/week-05\/toolbox-1.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/class-list\/_heftmann-jacob\/week-05\/toolbox-1.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -824,6 +851,33 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/class-list\/_heftmann-jacob\/week-05\/toolbox-2.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/class-list\/_heftmann-jacob\/week-05\/toolbox-2.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/week-04.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/week-04.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/class-list\/_heftmann-jacob\/week-03\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/class-list\/_heftmann-jacob\/week-03\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/_lib\/js\/crossbrowser-fixes.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -907,21 +961,21 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
-    "\/code-samples\/sidebar.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/code-samples\/sidebar.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/class-list\/caesar-kiana\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/class-list\/caesar-kiana\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/code-samples\/sidebar.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/code-samples\/sidebar.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1012,6 +1066,15 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/_lib\/js\/jquery-2.1.0.min-ck.js",
       "fileType" : 64
+    },
+    "\/week-05.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/week-05.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/_lib\/js\/v0\/window-height.js" : {
       "ignoreWasSetByUser" : 0,
