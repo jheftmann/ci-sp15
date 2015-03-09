@@ -26,6 +26,8 @@
 									<li><p>Copy the code for your Warby Parker wireframe into a new project</p></li>
 									<li><p>Add a CSS file and link to it in your HTML</p></li>
 									<li><p>Wrap sections of HTML into DIVs</p></li>
+									<li><p>Add classes styles for colors, type sizes, etc.</p></li>
+									<li><p>Add a style that will give every section a red border</p></li>
 									<li><p>Upload the project to the class website</p></li>
 								</ol>
 
