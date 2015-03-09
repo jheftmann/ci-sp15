@@ -80,14 +80,6 @@
 						</div>
 						<div class="subsection">
 							<div class="section-header">
-								<h6 class="txt-strong">08</h6>
-							</div>
-							<div class="section-content">
-								<h4><a href="class-list/liu-yung/">Yung Liu</a></h4>
-							</div>
-						</div>
-						<div class="subsection">
-							<div class="section-header">
 								<h6 class="txt-strong">09</h6>
 							</div>
 							<div class="section-content">

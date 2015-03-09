@@ -155,15 +155,17 @@
 						</div>
 
 						<div class="subsection">
+							<a href="week-07.php">
 								<div class="section-header">
 									<h6 class="txt-strong">wk 07</h6>
 									<h6>Mar 9&#8212;12</h6>
 								</div>
 								<div class="section-content">
-									<h4>Lab M: Foundation 2 Lab</h4>
+									<h4>Lab M: DIVs, Classes, and IDs</h4>
 									<h4>Studio T: Design - Be Inspired/Moodboard | Assignment - Foundation 3 due</h4>
 									<h4>Studio Th: Work Session - Foundation 4 Design Check-in</h4>
 								</div>
+							</a>
 						</div>
 
 						<div class="subsection">
