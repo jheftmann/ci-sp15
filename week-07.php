@@ -30,6 +30,9 @@
 									<li><p>Add a style that will give every section a red border</p></li>
 									<li><p>Upload the project to the class website</p></li>
 								</ol>
+								<br>
+								<h5 class="txt-strong">Assignment 2&#8212;due before next week’s class</h5>
+								<p>Codecademy <a href="http://www.codecademy.com/en/tracks/web">CSS Classes and IDs</a></p>
 
 								<div class="links-list">
 									<h6 class="mt-md">Reading list</h6>
@@ -43,6 +46,7 @@
 								<div class="links-list">
 									<h6 class="mt-md">Tools & resources</h6>
 									<ul>
+										<li><a href="assets/class-guides/week-07.pdf">Class Guide</a></li>
 										<li><a href="http://codepen.io/pen/">Codepen</a></li>
 										<li><a href="http://jsfiddle.net" />JSFiddle</li>
 										<li><a href="http://www.w3schools.com/tags/">Mozilla CSS overview</a></li>
