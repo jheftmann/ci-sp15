@@ -69,7 +69,7 @@
 										<li>Design Heroes</li>
 										<li>User Testing</li>
 										<li>Mood Board</li>
-										<li><strong>ACTION ITEM: Crate individual mood boards that incorporate typographic style, color scheme and imagery</strong></li>
+										<li><strong>ACTION ITEM: Create individual mood boards that incorporate typographic style, color scheme and imagery</strong></li>
 									</ul>
 								</p>
 								<p>And here's the class guide deck from today's class: <a href="https://dl.dropboxusercontent.com/u/9476278/ci-sp15/Interaction_ClassGuide_031015.pdf">here</a>
@@ -80,7 +80,17 @@
 							<h3>Thursday<br>3/12/15</h3>
 							</div>
 							<div class="section-content">
-								<!--  -->
+								<p>These are what we covered in class today:
+									<ul>
+										<li>Notable This Week: Gadgets</li>
+										<li>What's Happening Nex Week</li>
+										<li>Naming</li>
+										<li>Visual Design for Your Homepage</li>
+										<li><strong>ACTION ITEM: Continue to work on your individual homepage design</strong></li>
+									</ul>
+								</p>
+								<p>And here's the class guide deck from today's class: <a href="https://dl.dropboxusercontent.com/u/9476278/ci-sp15/Interaction_ClassGuide_031215.pdf">here</a>
+								</P>
 							</div>
 						</div>
 					</div>
