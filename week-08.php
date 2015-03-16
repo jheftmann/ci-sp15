@@ -37,11 +37,7 @@
 
 								<div class="links-list">
 									<h6 class="mt-md">Reading list</h6>
-									<ul>
-										<li><a href="http://news.artnet.com/art-world/ways-of-seeing-instagram-37635/" target="_blank">Ways of Seeing Instagram</a></li>
-										<li><a href="http://www.wired.com/2014/11/designing-brand-simple-enough-non-designers-use/" target="_blank">Designing a Brand Simple Enough for Non-Designers to Use</a></li>
-										<li><a href="http://www.vulture.com/2014/01/history-of-the-selfie.html" target="_blank">Art at Arm’s Length: A History of the Selfie</a></li>
-									</ul>
+									<p>No reading this week ;)</p>
 								</div>
 
 								<div class="links-list">
@@ -58,36 +54,17 @@
 						<div class="inner">
 							<div class="section-header">
 							<h2>Studio</h2>
-							<h3>Tuesday<br>3/10/15</h3>
+							<h3>Tuesday<br>3/17/15</h3>
 							</div>
 							<div class="section-content">
-								<p>These are what we covered in class today:
-									<ul>
-										<li>Design Heroes</li>
-										<li>User Testing</li>
-										<li>Mood Board</li>
-										<li><strong>ACTION ITEM: Create individual mood boards that incorporate typographic style, color scheme and imagery</strong></li>
-									</ul>
-								</p>
-								<p>And here's the class guide deck from today's class: <a href="https://dl.dropboxusercontent.com/u/9476278/ci-sp15/Interaction_ClassGuide_031015.pdf">here</a>
-								</P>
+								<!--  -->
 							</div>
 							<div class="section-header">
 							<h2>Studio</h2>
-							<h3>Thursday<br>3/12/15</h3>
+							<h3>Thursday<br>3/19/15</h3>
 							</div>
 							<div class="section-content">
-								<p>These are what we covered in class today:
-									<ul>
-										<li>Notable This Week: Gadgets</li>
-										<li>What's Happening Nex Week</li>
-										<li>Naming</li>
-										<li>Visual Design for Your Homepage</li>
-										<li><strong>ACTION ITEM: Continue to work on your individual homepage design</strong></li>
-									</ul>
-								</p>
-								<p>And here's the class guide deck from today's class: <a href="https://dl.dropboxusercontent.com/u/9476278/ci-sp15/Interaction_ClassGuide_031215.pdf">here</a>
-								</P>
+								<!--  -->
 							</div>
 						</div>
 					</div>
