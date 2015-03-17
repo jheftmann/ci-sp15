@@ -17,14 +17,14 @@
 						<div class="inner">
 							<div class="section-header">
 								<h2>Lab</h2>
-								<h3>Monday<br>3/9/15</h3>
+								<h3>Monday<br>3/16/15</h3>
 							</div>
 							<div class="section-content">
 								<h5 class="txt-strong">Assignment 1&#8212;due by Monday, March 30</h5>
 								<p>Tying it all together</p>
 								<ol>
 									<li><p>Copy last week’s code into a new project</p></li>
-									<li><p>Use all the tools – HTML and CSS – to recreate a very close version of the Warby Parker product page</p></li>
+									<li><p>Use all the tools – HTML and CSS – to recreate a very close version of the Warby Parker product page: <a href="https://www.warbyparker.com/sunglasses/men/quentin/whiskey-tortoise">Quentin sunglasses</a></p></li>
 									<li><p>Good projects will visually represent the original; excellent projects will also implement the best practices we’ve discussed in class</p></li>
 								</ol>
 								<br>
@@ -46,8 +46,21 @@
 										<li><a href="assets/class-guides/week-08.pdf">Class Guide</a></li>
 										<li><a href="http://alistapart.com/article/css-floats-101">CSS Floats 101</a></li>
 										<li><a href="https://css-tricks.com/centering-css-complete-guide/"/>Centering in CSS: A Complete Guide</li>
+										<li><a href="http://davidwalsh.name/css-circles">CSS circles</a></li>
+										<li><a href="http://www.typekit.com">Typekit</a></li>
 									</ul>
 								</div>
+
+								<div class="links-list">
+									<h6 class="mt-md">Fun links</h6>
+									<ul>
+										<li><a href="http://www.skip-youtube.com">Skip Youtube</a></li>
+										<li><a href="http://www.cuteroulette.com">Cute Roulette</a></li>
+										<li><a href="http://mikewillmade.it"/>Mike Will<a/></li>
+										<li><a href="https://www.shadertoy.com/view/Ms2SD1">Ocean</a></li>
+									</ul>
+								</div>
+
 							</div>
 						</div>
 						<hr>
