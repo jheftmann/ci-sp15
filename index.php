@@ -194,15 +194,17 @@
 						</div>
 
 						<div class="subsection">
+							<a href="week-09.php">
 								<div class="section-header">
 									<h6 class="txt-strong">wk 09</h6>
 									<h6>Mar 30&#8212;Apr 2</h6>
 								</div>
 								<div class="section-content">
-									<h4>Lab M: Iterating</h4>
+									<h4>Lab M: Web Typography | Final project</h4>
 									<h4>Studio T: Design - Design Principles | Assignment - Toolbox 3 due</h4>
 									<h4>Studio Th: Design - Typography & Color | Assignment - Design 1 due</h4>
 								</div>
+							</a>
 						</div>
 
 						<div class="subsection">
