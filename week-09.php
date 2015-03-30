@@ -38,6 +38,7 @@
 									<h6 class="mt-md">Tools & resources</h6>
 									<ul>
 										<li><a href="http://www.typekit.com">Typekit</a></li>
+										<li><a href="http://kupferschrift.de/cms/2015/02/typography-on-the-web/">Typograpy on the Web</a></li>
 									</ul>
 								</div>
 
