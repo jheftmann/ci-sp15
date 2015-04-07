@@ -26,26 +26,24 @@
 									<li><p>Create a very simple HTML page with your project statement and proposal.</p><p>Your project statement will be an explanation of the project and the connection you’re looking for in the data you collect. Your statement should sell me on your idea.
 									</p><p>Your project proposal should outline what you want to create, and how you want to create it. It might include: important milestones, deliverables, technologies required, where you’ll get your data.</p></li>
 									<li><p>Add basic styling to elegantly and clearly present the content.</p></li>
-									<li><p>Upload it to the server before next class.</p></li>
+									<li><p>Upload it to the server before next class. You will be presenting your project proposal in class.</p></li>
 								</ol>
-
-								<div class="links-list">
-									<h6 class="mt-md">Reading list</h6>
-									<p>No reading this week ;)</p>
-								</div>
 
 								<div class="links-list">
 									<h6 class="mt-md">Tools & resources</h6>
 									<ul>
-										<li><a href="http://www.typekit.com">Typekit</a></li>
-										<li><a href="http://kupferschrift.de/cms/2015/02/typography-on-the-web/">Typograpy on the Web</a></li>
+										<li><a href="assets/class-guides/week-10.pdf">Class Guide</a></li>
+										<li><a href="http://feltron.com">Feltron Annual Reports</a></li>
+										<li><a href="http://petewarden.github.io/iPhoneTracker/">iPhone GPS tracker</a></li>
+										<li><a href="http://www.nytimes.com/interactive/2014/11/20/world/middleeast/Iran-nuclear-timeline.html?_r=2">NYTimes timeline</a></li>
 									</ul>
 								</div>
 
 								<div class="links-list">
 									<h6 class="mt-md">Fun links</h6>
 									<ul>
-										<li><a href="http://www.grillitype.com">Grillitype</a></li>
+										<li><a href="https://worksthatwork.com">Works That Work magazine</a></li>
+										<li><a href="http://new.pentagram.com/2015/03/new-work-the-new-school/">Pentagram’s blog post on the new identity</a></li>
 									</ul>
 								</div>
 

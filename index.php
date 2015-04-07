@@ -214,7 +214,7 @@
 									<h6>Apr 6&#8212;9</h6>
 								</div>
 								<div class="section-content">
-									<h4>Lab M: Content Management Systems | Final Project Intro</h4>
+									<h4>Lab M: Final project introduction</h4>
 									<h4>Studio T: Design - Visual Design | Assignment - Design 2 due</h4>
 									<h4>Studio Th: Work Session - Visual Design | Assignment - Design 3 check-in</h4>
 								</div>
