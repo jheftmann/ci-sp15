@@ -215,8 +215,8 @@
 								</div>
 								<div class="section-content">
 									<h4>Lab M: Final project introduction</h4>
-									<h4>Studio T: Design - Visual Design | Assignment - Design 2 due</h4>
-									<h4>Studio Th: Work Session - Visual Design | Assignment - Design 3 check-in</h4>
+									<h4>Studio T: Class cancelled</h4>
+									<h4>Studio Th: Mobile Design Inspirations | Assignment - Visual Design Comps due</h4>
 								</div>
 							</a>
 						</div>
