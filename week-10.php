@@ -63,23 +63,6 @@
 							<h3>Thursday<br>4/9/15</h3>
 							</div>
 							<div class="section-content">
-								<div class="section-content">
-								<p>These are what we covered in class today:
-									<ul>
-										<li>Design Heroes</li>
-										<li>User Testing</li>
-										<li>Mood Board</li>
-										<li><strong>ACTION ITEM: Create individual mood boards that incorporate typographic style, color scheme and imagery</strong></li>
-									</ul>
-								</p>
-								<p>And here's the class guide deck from today's class: <a href="https://dl.dropboxusercontent.com/u/9476278/ci-sp15/Interaction_ClassGuide_031015.pdf">here</a>
-								</P>
-							</div>
-							<div class="section-header">
-							<h2>Studio</h2>
-							<h3>Thursday<br>3/12/15</h3>
-							</div>
-							<div class="section-content">
 								<p>These are what we covered in class today:
 									<ul>
 										<li>Notable This Week</li>
