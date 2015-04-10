@@ -17,7 +17,7 @@
 						<div class="inner">
 							<div class="section-header">
 								<h2>Lab</h2>
-								<h3>Monday<br>3/16/15</h3>
+								<h3>Monday<br>4/6/15</h3>
 							</div>
 							<div class="section-content">
 								<h5 class="txt-strong">Assignment 1&#8212;due by Monday, April 6</h5>
@@ -53,17 +53,45 @@
 						<div class="inner">
 							<div class="section-header">
 							<h2>Studio</h2>
-							<h3>Tuesday<br>3/17/15</h3>
+							<h3>Tuesday<br>4/7/15</h3>
 							</div>
 							<div class="section-content">
 								<!--  -->
 							</div>
 							<div class="section-header">
 							<h2>Studio</h2>
-							<h3>Thursday<br>3/19/15</h3>
+							<h3>Thursday<br>4/9/15</h3>
 							</div>
 							<div class="section-content">
-								<!--  -->
+								<div class="section-content">
+								<p>These are what we covered in class today:
+									<ul>
+										<li>Design Heroes</li>
+										<li>User Testing</li>
+										<li>Mood Board</li>
+										<li><strong>ACTION ITEM: Create individual mood boards that incorporate typographic style, color scheme and imagery</strong></li>
+									</ul>
+								</p>
+								<p>And here's the class guide deck from today's class: <a href="https://dl.dropboxusercontent.com/u/9476278/ci-sp15/Interaction_ClassGuide_031015.pdf">here</a>
+								</P>
+							</div>
+							<div class="section-header">
+							<h2>Studio</h2>
+							<h3>Thursday<br>3/12/15</h3>
+							</div>
+							<div class="section-content">
+								<p>These are what we covered in class today:
+									<ul>
+										<li>Notable This Week</li>
+										<li>Visual Design Share-out</li>
+										<li>Mobile Inspirations</li>
+										<li>Group Breakout sessions</li>
+										<li><strong>ACTION ITEM: Concept Sketches (refer to class guide!)</strong></li>
+									</ul>
+								</p>
+								<p>And here's the class guide deck from today's class: <a href="https://dl.dropboxusercontent.com/u/9476278/ci-sp15/Interaction_ClassGuide_040915.pdf">here</a>
+								</P>
+							</div>
 							</div>
 						</div>
 					</div>
