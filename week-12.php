@@ -21,7 +21,13 @@
 							</div>
 							<div class="section-content">
 								<h5 class="txt-strong">Design (week 1 of 2) for your final project</h5>
-								<p>Be prepared to share your in-progress designs.</p>
+								<p>Be prepared to share your in-progress designs next week.</p>
+								<div class="links-list">
+									<h6 class="mt-md">Tools & resources</h6>
+									<ul>
+										<li><a href="http://www.w3.org/TR/css3-mediaqueries/">W3C Media Queries</a></li>
+									</ul>
+								</div>
 							</div>
 						</div>
 						<hr>
@@ -31,14 +37,14 @@
 								<h3>Tuesday<br>4/21/15</h3>
 							</div>
 							<div class="section-content">
-								<!--  -->
+								<p>—</p>
 							</div>
 							<div class="section-header">
 								<h2>Studio</h2>
 								<h3>Thursday<br>4/23/15</h3>
 							</div>
 							<div class="section-content">
-
+								<p>—</p>
 							</div>
 						</div>
 					</div>

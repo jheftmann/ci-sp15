@@ -21,7 +21,7 @@
 							</div>
 							<div class="section-content">
 								<h5 class="txt-strong">Research for your final project</h5>
-								<p>There is no deliverable for next week’s class, but your assignment is to copmlete the research required for your final project.</p>
+								<p>There is no deliverable for next week’s class, but your assignment is to copmplete the research required for your final project.</p>
 							</div>
 						</div>
 						<hr>
@@ -31,14 +31,14 @@
 								<h3>Tuesday<br>4/14/15</h3>
 							</div>
 							<div class="section-content">
-								<!--  -->
+								<p>—</p>
 							</div>
 							<div class="section-header">
 								<h2>Studio</h2>
 								<h3>Thursday<br>4/16/15</h3>
 							</div>
 							<div class="section-content">
-
+								<p>—</p>
 							</div>
 						</div>
 					</div>
