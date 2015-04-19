@@ -222,27 +222,31 @@
 						</div>
 
 						<div class="subsection">
+							<a href="week-11.php">
 								<div class="section-header">
 									<h6 class="txt-strong">wk 11</h6>
 									<h6>Apr 13&#8212;17</h6>
 								</div>
 								<div class="section-content">
-									<h4>Lab M: Design 2 Lab</h4>
+									<h4>Lab M:  Final project – Research</h4>
 									<h4>Studio T: Mobile - Intro, Human Interface Guidelines | Assignment - Design 3 due</h4>
 									<h4>Studio Th: Mobile - Designing Language for Mobile  | Assignment - Toolbox 4 due</h4>
 								</div>
+							</a>
 						</div>
 
 						<div class="subsection">
+							<a href="week-12.php">
 								<div class="section-header">
 									<h6 class="txt-strong">wk 12</h6>
 									<h6>Apr 20&#8212;24</h6>
 								</div>
 								<div class="section-content">
-									<h4>Lab M: Design 3 Lab</h4>
+									<h4>Lab M: Final project – Design</h4>
 									<h4>Studio T: Mobile - Design Flows | Assignment - Mobile 1 due</h4>
 									<h4>Studio Th: Mobile - User Journey & Storyboarding</h4>
 								</div>
+							</a>
 						</div>
 
 						<div class="subsection">
@@ -251,7 +255,7 @@
 									<h6>Apr 27&#8212;31</h6>
 								</div>
 								<div class="section-content">
-									<h4>Lab M: Mobile Lab</h4>
+									<h4>Lab M:  Final project – Design (cont‘d)</h4>
 									<h4>Studio T: Work Session - Storyboarding | Assignment - Mobile 2 due</h4>
 									<h4>Studio Th: Mobile - Design Execution | Assignment - Mobile 3 due </h4>
 								</div>
@@ -263,7 +267,7 @@
 									<h6>May 4&#8212;8</h6>
 								</div>
 								<div class="section-content">
-									<h4>Lab M: QA</h4>
+									<h4>Lab M: Final project – Development</h4>
 									<h4>Studio T: Work Session - Mobile Design | Assignment - Mobile 4 Checkin</h4>
 									<h4>Studio Th: How to Put it All Together | Assignment - Mobile 4 due</h4>
 								</div>
@@ -272,10 +276,22 @@
 						<div class="subsection">
 								<div class="section-header">
 									<h6 class="txt-strong">wk 15</h6>
-									<h6>May 4&#8212;8</h6>
+									<h6>May 11&#8212;15</h6>
 								</div>
 								<div class="section-content">
-									<h4>Lab M: Launch day &#8212; Final project due</h4>
+									<h4>Lab M: Final project – Development</h4>
+									<h4>Studio T: Work Session - Final Project Check-in</h4>
+									<h4>Studio Th: Final Crit</h4>
+								</div>
+						</div>
+
+						<div class="subsection">
+								<div class="section-header">
+									<h6 class="txt-strong">wk 16</h6>
+									<h6>May 11&#8212;15</h6>
+								</div>
+								<div class="section-content">
+									<h4>Lab M: FINAL PROJECT DUE</h4>
 									<h4>Studio T: Work Session - Final Project Check-in</h4>
 									<h4>Studio Th: Final Crit</h4>
 								</div>
