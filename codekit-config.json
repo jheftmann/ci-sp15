@@ -2,6 +2,15 @@
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
   "creatorBuild" : "8403",
   "files" : {
+    "\/class-list\/hammond-john\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/class-list\/hammond-john\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/_lib\/js\/config-waitForImages.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -12,15 +21,6 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/_lib\/js\/config-waitForImages-ck.js",
       "fileType" : 64
-    },
-    "\/class-list\/hammond-john\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/class-list\/hammond-john\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/_lib\/less\/v0\/color.less" : {
       "ieCompatibility" : 1,
@@ -38,6 +38,15 @@
       "outputStyle" : 0,
       "fileType" : 1,
       "debugStyle" : 0
+    },
+    "\/week-13.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/week-13.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/_lib\/less\/v0\/space.less" : {
       "ieCompatibility" : 1,
@@ -99,6 +108,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/code-samples\/filepath-example\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/code-samples\/filepath-example\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/styles\/less\/_fonts.less" : {
       "ieCompatibility" : 1,
       "inputAbbreviatedPath" : "\/styles\/less\/_fonts.less",
@@ -115,15 +133,6 @@
       "outputStyle" : 0,
       "fileType" : 1,
       "debugStyle" : 0
-    },
-    "\/class-list\/_heftmann-jacob\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/class-list\/_heftmann-jacob\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/_lib\/less\/bootstrap\/code.less" : {
       "ieCompatibility" : 1,
@@ -148,6 +157,24 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/week-01.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/code-samples\/media-query-example\/styles.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/code-samples\/media-query-example\/styles.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/class-list\/_heftmann-jacob\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/class-list\/_heftmann-jacob\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -226,6 +253,17 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
+    "\/_lib\/lib.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 1,
+      "inputAbbreviatedPath" : "\/_lib\/lib.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/scripts\/lib.min.js",
+      "fileType" : 64
+    },
     "\/_lib\/less\/v0\/crossbrowser-fixes.less" : {
       "ieCompatibility" : 1,
       "inputAbbreviatedPath" : "\/_lib\/less\/v0\/crossbrowser-fixes.less",
@@ -242,17 +280,6 @@
       "outputStyle" : 0,
       "fileType" : 1,
       "debugStyle" : 0
-    },
-    "\/_lib\/lib.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 1,
-      "inputAbbreviatedPath" : "\/_lib\/lib.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/scripts\/lib.min.js",
-      "fileType" : 64
     },
     "\/week-06.php" : {
       "ignoreWasSetByUser" : 0,
@@ -361,6 +388,24 @@
       "outputAbbreviatedPath" : "\/_lib\/js\/v0\/load-page-ck.js",
       "fileType" : 64
     },
+    "\/code-samples\/webfont-example\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/code-samples\/webfont-example\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/week-02.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/week-02.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/_lib\/less\/v0\/reset.less" : {
       "ieCompatibility" : 1,
       "inputAbbreviatedPath" : "\/_lib\/less\/v0\/reset.less",
@@ -377,15 +422,6 @@
       "outputStyle" : 0,
       "fileType" : 1,
       "debugStyle" : 0
-    },
-    "\/week-02.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/week-02.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/styles\/less\/_config.less" : {
       "ieCompatibility" : 1,
@@ -421,6 +457,15 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
+    "\/week-10.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/week-10.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/assets\/img\/brand-logo.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -442,6 +487,15 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/_lib\/js\/v0\/match-height-ck.js",
       "fileType" : 64
+    },
+    "\/week-07.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/week-07.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/styles\/site.css" : {
       "ignoreWasSetByUser" : 0,
@@ -510,6 +564,15 @@
       "inputAbbreviatedPath" : "\/class-list\/cho-emily\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/code-samples\/webfont-example\/styles.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/code-samples\/webfont-example\/styles.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/class-list\/_heftmann-jacob\/week-05\/toolbox-1.html" : {
       "ignoreWasSetByUser" : 0,
@@ -640,6 +703,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/week-11.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/week-11.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/_lib\/js\/v0\/window-size.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -674,6 +746,24 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/index.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/code-samples\/filepath-example\/subpage\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/code-samples\/filepath-example\/subpage\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/week-08.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/week-08.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -727,15 +817,15 @@
       "outputAbbreviatedPath" : "\/_lib\/js\/v0\/image-orientation-ck.js",
       "fileType" : 64
     },
-    "\/_lib\/js\/jquery-migrate-1.2.1.min.js" : {
+    "\/_lib\/js\/waitForImages.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_lib\/js\/jquery-migrate-1.2.1.min.js",
+      "inputAbbreviatedPath" : "\/_lib\/js\/waitForImages.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_lib\/js\/jquery-migrate-1.2.1.min-ck.js",
+      "outputAbbreviatedPath" : "\/_lib\/js\/waitForImages-ck.js",
       "fileType" : 64
     },
     "\/_lib\/js\/v0\/vertical-center.js" : {
@@ -749,15 +839,15 @@
       "outputAbbreviatedPath" : "\/_lib\/js\/v0\/vertical-center-ck.js",
       "fileType" : 64
     },
-    "\/_lib\/js\/waitForImages.js" : {
+    "\/_lib\/js\/jquery-migrate-1.2.1.min.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_lib\/js\/waitForImages.js",
+      "inputAbbreviatedPath" : "\/_lib\/js\/jquery-migrate-1.2.1.min.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_lib\/js\/waitForImages-ck.js",
+      "outputAbbreviatedPath" : "\/_lib\/js\/jquery-migrate-1.2.1.min-ck.js",
       "fileType" : 64
     },
     "\/_lib\/js\/waypoints.min.js" : {
@@ -788,12 +878,12 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
-    "\/class-list\/morales-egas-juan-francisco\/index.html" : {
+    "\/code-samples\/media-query-example\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/class-list\/morales-egas-juan-francisco\/index.html",
+      "inputAbbreviatedPath" : "\/code-samples\/media-query-example\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -824,6 +914,15 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/_lib\/js\/v0\/window-orientation-ck.js",
       "fileType" : 64
+    },
+    "\/class-list\/morales-egas-juan-francisco\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/class-list\/morales-egas-juan-francisco\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/_lib\/less\/bootstrap\/print.less" : {
       "ieCompatibility" : 1,
@@ -935,12 +1034,12 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
-    "\/class-list\/foote-natalie-beatric\/index.html" : {
+    "\/class-list\/caesar-kiana\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/class-list\/foote-natalie-beatric\/index.html",
+      "inputAbbreviatedPath" : "\/class-list\/caesar-kiana\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -961,21 +1060,21 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
-    "\/class-list\/caesar-kiana\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/class-list\/caesar-kiana\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/code-samples\/sidebar.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/code-samples\/sidebar.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/week-12.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/week-12.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1001,6 +1100,15 @@
       "outputAbbreviatedPath" : "\/_lib\/js\/modernizr-ck.js",
       "fileType" : 64
     },
+    "\/week-09.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/week-09.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/_lib\/js\/vertical-align.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -1012,12 +1120,30 @@
       "outputAbbreviatedPath" : "\/_lib\/js\/vertical-align-ck.js",
       "fileType" : 64
     },
+    "\/class-list\/foote-natalie-beatric\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/class-list\/foote-natalie-beatric\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/class-list\/saba-brianna\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/class-list\/saba-brianna\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/code-samples\/filepath-example\/subpage\/subsubpage\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/code-samples\/filepath-example\/subpage\/subsubpage\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1076,17 +1202,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_lib\/js\/v0\/window-height.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_lib\/js\/v0\/window-height.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_lib\/js\/v0\/window-height-ck.js",
-      "fileType" : 64
-    },
     "\/_lib\/less\/v0\/buttons.less" : {
       "ieCompatibility" : 1,
       "inputAbbreviatedPath" : "\/_lib\/less\/v0\/buttons.less",
@@ -1103,6 +1218,17 @@
       "outputStyle" : 0,
       "fileType" : 1,
       "debugStyle" : 0
+    },
+    "\/_lib\/js\/v0\/window-height.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_lib\/js\/v0\/window-height.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_lib\/js\/v0\/window-height-ck.js",
+      "fileType" : 64
     },
     "\/_lib\/js\/v0\/load-bg-images.js" : {
       "ignoreWasSetByUser" : 0,

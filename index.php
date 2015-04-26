@@ -250,15 +250,17 @@
 						</div>
 
 						<div class="subsection">
+							<a href="week-13.php">
 								<div class="section-header">
 									<h6 class="txt-strong">wk 13</h6>
-									<h6>Apr 27&#8212;31</h6>
+									<h6>Apr 27&#8212;May 1</h6>
 								</div>
 								<div class="section-content">
 									<h4>Lab M:  Final project – Design (cont‘d)</h4>
 									<h4>Studio T: Work Session - Storyboarding | Assignment - Mobile 2 due</h4>
 									<h4>Studio Th: Mobile - Design Execution | Assignment - Mobile 3 due </h4>
 								</div>
+							</a>
 						</div>
 
 						<div class="subsection">
